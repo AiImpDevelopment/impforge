@@ -143,11 +143,16 @@ ImpForge is in active development. Star this repo to stay updated!
 
 ## License
 
-Apache-2.0
+**Dual License:**
+- Application: [Apache-2.0](LICENSE)
+- Engine: [BUSL-1.1](LICENSE-ENGINE) (converts to Apache-2.0 after 4 years)
+
+All dependencies: MIT/Apache-2.0/BSD only — zero GPL.
 
 ---
 
 <p align="center">
   <strong>Built with ❤️ by <a href="https://github.com/AiImpDevelopment">AiImp Development</a></strong><br/>
-  <em>Karsten Schildgen • Germany</em>
+  <em>Karsten Schildgen • Germany</em><br/><br/>
+  © 2026 AiImp Development. All rights reserved.
 </p>
