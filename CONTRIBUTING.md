@@ -2,23 +2,14 @@
 
 Thank you for your interest in contributing to ImpForge!
 
-## Quick Start
-
-```bash
-git clone https://github.com/AiImpDevelopment/impforge
-cd impforge/ImpForge
-pnpm install
-cargo tauri dev
-```
-
 ## Tech Stack
 
-- **Backend**: Rust (Tauri 2.10, 85+ commands)
+- **Backend**: Rust (Tauri 2.10, 1,147 IPC commands)
 - **Frontend**: Svelte 5 + TypeScript + TailwindCSS v4
-- **UI**: bits-ui (Shadcn), Monaco Editor, xterm.js
+- **UI**: bits-ui (Shadcn), BenikUI Theme Engine, xterm.js
 - **Database**: SQLite (rusqlite, WAL mode)
-- **AI**: Ollama, llama.cpp, HuggingFace Hub, FastEmbed
-- **Browser**: chromiumoxide (CDP engine)
+- **AI**: Ollama (local), OpenRouter (cloud), FastEmbed
+- **License**: Elastic License v2 (ELv2)
 
 ## Development Guidelines
 
@@ -29,11 +20,15 @@ cargo tauri dev
 
 ## Architecture
 
-- `src-tauri/src/` — Rust backend (commands, orchestrator, agents)
-- `src/routes/` — Svelte 5 pages (11 main routes)
-- `src/lib/stores/` — Reactive state (17 stores)
-- `src/lib/components/` — UI components (90+)
+- `src-tauri/src/` — Rust backend (60+ modules, 1,147 commands)
+- `src/routes/` — Svelte 5 pages (60 routes)
+- `src/lib/stores/` — Reactive state (30 stores)
+- `src/lib/components/` — UI components (167+)
 
 ## License
 
-MIT — see [LICENSE](LICENSE) for details.
+Elastic License v2 (ELv2) — see [LICENSE](LICENSE) for details.
+
+---
+
+Built by [AiImp Technology](https://github.com/AiImpDevelopment) (Karsten Schildgen, Germany)
