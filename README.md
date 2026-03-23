@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-0.9.0-00ff66?style=flat-square" alt="Version" />
-  <img src="https://img.shields.io/badge/tests-2750+-passing-22c55e?style=flat-square" alt="Tests" />
+  <img src="https://img.shields.io/badge/tests-2900+-passing-22c55e?style=flat-square" alt="Tests" />
   <img src="https://img.shields.io/badge/modules-60+-3b82f6?style=flat-square" alt="Modules" />
   <img src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-a855f7?style=flat-square" alt="Platform" />
   <img src="https://img.shields.io/badge/license-ELv2-blue?style=flat-square" alt="License" />
