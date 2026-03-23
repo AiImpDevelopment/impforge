@@ -134,7 +134,7 @@ Your work powers a full RPG game. Write a document? Craft a weapon. Commit code?
 
 | | Free | Pro | Team |
 |---|---|---|---|
-| **Price** | $0 forever | $19/mo | $15/user/mo |
+| **Price** | $0 forever | 25 EUR/mo | 20 EUR/user/mo |
 | Local AI (Ollama) | Unlimited | Unlimited | Unlimited |
 | Office Suite | Full | Full | Full |
 | CodeForge IDE | Full | Full | Full |
