@@ -6,24 +6,27 @@
 
 <p align="center">
   <strong>The world's first adaptive, offline-first AI Workstation.</strong><br/>
-  60+ modules + SwarmForge RPG. One app. Your data stays yours.
+  370K+ lines of code. 90+ modules. 3,600 industry tools. One app. Your data stays yours.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.9.0-00ff66?style=flat-square" alt="Version" />
-  <img src="https://img.shields.io/badge/tests-2900+-passing-22c55e?style=flat-square" alt="Tests" />
-  <img src="https://img.shields.io/badge/modules-60+-3b82f6?style=flat-square" alt="Modules" />
+  <img src="https://img.shields.io/badge/version-0.6.0-00ff66?style=flat-square" alt="Version" />
+  <img src="https://img.shields.io/badge/tests-2,910+-passing-22c55e?style=flat-square" alt="Tests" />
+  <img src="https://img.shields.io/badge/modules-90+-3b82f6?style=flat-square" alt="Modules" />
+  <img src="https://img.shields.io/badge/commands-1,420-ff6600?style=flat-square" alt="Commands" />
   <img src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-a855f7?style=flat-square" alt="Platform" />
   <img src="https://img.shields.io/badge/license-ELv2-blue?style=flat-square" alt="License" />
   <img src="https://img.shields.io/badge/offline-100%25-22c55e?style=flat-square" alt="Offline" />
   <img src="https://img.shields.io/badge/AI%20models-100+-ff6600?style=flat-square" alt="AI Models" />
+  <img src="https://img.shields.io/badge/industry%20tools-3,600-f59e0b?style=flat-square" alt="Industry Tools" />
 </p>
 
 <p align="center">
   <a href="#what-is-impforge">What is it?</a> &bull;
   <a href="#features">Features</a> &bull;
-  <a href="#sovereign-office">Office Suite</a> &bull;
+  <a href="#sovereign-office-suite">Office Suite</a> &bull;
   <a href="#codeforge-ide">IDE</a> &bull;
+  <a href="#forge-industry">Industry Tools</a> &bull;
   <a href="#swarmforge-rpg">SwarmForge RPG</a> &bull;
   <a href="#download">Download</a> &bull;
   <a href="#pricing">Pricing</a>
@@ -33,11 +36,11 @@
 
 ## What is ImpForge?
 
-ImpForge replaces your entire software stack with **one native desktop app**. AI chat, office suite, IDE, workflow automation, business tools, team collaboration, and a full RPG game — all **offline-first** and **100% private**.
+ImpForge replaces your entire software stack with **one native desktop app**. AI chat, office suite, full IDE, workflow automation, 3,600 industry-specific SaaS tools, team collaboration, and a complete strategy RPG game — all **offline-first** and **100% private**.
 
 No cloud required. No subscriptions for core features. No data leaves your machine.
 
-> **"Microsoft 365 + Cursor IDE + Slack + Adobe + Zapier + Notion — in one app that runs without internet."**
+> **"Microsoft 365 + Cursor IDE + Slack + Adobe + Zapier + Notion + 3,600 SaaS tools — in one app that runs without internet."**
 
 ### Why ImpForge?
 
@@ -46,6 +49,7 @@ No cloud required. No subscriptions for core features. No data leaves your machi
 | 10+ SaaS subscriptions ($200+/mo) | One app, one price |
 | Your data on 15 different servers | Everything on YOUR machine |
 | AI needs internet connection | Ollama runs 100% locally |
+| Industry tools are separate SaaS products | 3,600 tools built-in across 18 industries |
 | Can't customize anything | Full theme engine + plugin system |
 | Tools don't talk to each other | Intelligent Hub connects ALL modules |
 
@@ -54,15 +58,18 @@ No cloud required. No subscriptions for core features. No data leaves your machi
 ## Features
 
 ### AI Intelligence Hub
-Every interaction flows through a **4-layer neural pipeline** that understands what you need — in German AND English, even casual everyday language.
+
+Every interaction flows through a **4-layer neural pipeline** with 4,200 intent patterns — understanding natural language in German AND English, even casual everyday speech.
 
 - **Smart Routing** — automatically picks the right module for your request
-- **100+ AI models** — local (Ollama) or cloud (OpenRouter)
-- **Multi-Intent** — "Fix the bug and then add tests" processes BOTH actions
+- **100+ AI models** — local (Ollama, llama.cpp) or cloud (OpenRouter, 28+ free models)
+- **Multi-Intent** — "Fix the bug and then add tests" processes BOTH actions simultaneously
 - **Sentiment-Aware** — adapts tone when you're frustrated or excited
 - **Self-Learning** — gets smarter the more you use it
+- **Model Routing Cascade** — visual cascade showing how requests flow through model layers
 
 ### Sovereign Office Suite
+
 A complete Microsoft Office replacement, built from scratch. No cloud, no telemetry, no lock-in.
 
 | Module | Replaces | Highlights |
@@ -77,41 +84,65 @@ A complete Microsoft Office replacement, built from scratch. No cloud, no teleme
 | **ForgeMail** | Outlook / Gmail | AI compose, IMAP/SMTP, 4 tone presets |
 
 ### CodeForge IDE
+
 A full IDE that rivals Cursor and JetBrains — with deeper AI integration.
 
 - **AI Code Completion** — ghost text, inline diff, agent loop
 - **6,600+ Quality Rules** — security, performance, trading, legal, marketing
 - **Git Integration** — 14 commands, visual diff, branch management
 - **Terminal** — real PTY with WebGL rendering + ligatures
-- **LSP** — 32 language grammars via tree-sitter
+- **32 Language Grammars** — via tree-sitter
 - **Debug** — DAP integration for step debugging
 - **Database Client** — query any SQLite/PostgreSQL directly
+- **Accessibility** — WCAG 3.0, BFSG, BITV 2.0 compliance engine
+
+### Forge Industry — 3,600 SaaS Tools Built-In
+
+Why pay for 50 separate SaaS subscriptions when ImpForge includes **3,600 industry-specific tools** across **18 industries**? Each tool is powered by 20 reusable computation engines and connects to real APIs when available.
+
+| Industry | Tools | Examples |
+|----------|-------|---------|
+| **Healthcare** | 200 | EHR management, HL7/FHIR integration, HIPAA compliance, drug interaction checker |
+| **Manufacturing** | 200 | Production planning, quality control, supply chain optimization, MES integration |
+| **Finance** | 200 | Portfolio analytics, risk assessment, regulatory compliance, algorithmic trading |
+| **Legal** | 200 | Contract analysis, case management, legal research, GDPR compliance |
+| **Education** | 200 | LMS integration, student analytics, curriculum builder, plagiarism detection |
+| **Retail** | 200 | Inventory management, POS analytics, demand forecasting, loyalty programs |
+| **Logistics** | 200 | Route optimization, fleet management, warehouse automation, customs tracking |
+| **Energy** | 200 | Grid monitoring, renewable forecasting, emissions tracking, SCADA integration |
+| **Aerospace** | 200 | Flight planning, MRO management, certification tracking, CFD simulation |
+| **Construction** | 200 | BIM integration, project scheduling, safety compliance, cost estimation |
+| **Insurance** | 200 | Claims processing, actuarial analytics, fraud detection, policy management |
+| **Agriculture** | 200 | Crop planning, weather integration, precision farming, livestock tracking |
+| **Hospitality** | 200 | Reservation management, revenue optimization, guest CRM, kitchen management |
+| **Automotive** | 200 | Fleet telematics, diagnostics (OBD-II), dealer management, ADAS analytics |
+| **Telecom** | 200 | Network monitoring, subscriber analytics, billing automation, 5G planning |
+| **Media** | 200 | Content management, DAM, audience analytics, programmatic ad management |
+| **Government** | 200 | Citizen services, permit management, public records, grant tracking |
+| **Nonprofit** | 200 | Donor CRM, grant management, volunteer scheduling, impact measurement |
+
+**20 Computation Engines** power all tools: Scheduling, Billing, Compliance, Analytics, Inventory, CRM, HR, Document Processing, Communication, Quality Control, Project Management, Security, Training, Data Pipeline, Marketing, Monitoring, Design, Logistics, Research, and Risk Assessment.
 
 ### Business Automation
+
 - **ForgeFlow** — visual workflow builder (replaces n8n, Zapier, Make.com)
 - **176 Built-in Tools** — QR generator, password manager, invoice creator, and 173 more
 - **Social Media Hub** — AI content for 6 platforms
 - **Freelancer Hub** — clients, invoices, proposals, time tracking
-- **Browser Agent** — AI-powered web automation
+- **Browser Agent** — AI-powered web automation with screenshot analysis
 
 ### Team Collaboration
+
 - **ForgeTeam** — P2P team management with invite codes
 - **ImpBook** — shared AI knowledge workspace
-- **Real-time Messaging** — team chat with channels
-- **Shared Goals** — milestone tracking for teams
+- **Real-time Messaging** — team chat with channels and threads
+- **Project Management** — Kanban boards, sprint planning, resource allocation
 
 ### SwarmForge RPG
-Your work powers a full RPG game. Write a document? Craft a weapon. Commit code? Train units. Complete a task? Earn Dark Matter.
 
-- **4 Factions** — Insects, Demons, Undead, Humans (80 units, 63 ships, 88 buildings)
-- **Genetic Evolution** — 64-gene genome with MAP-Elites + Novelty Search
-- **OGame-style Galaxy** — 67,000+ planets across 9 galaxies
-- **Combat System** — 7 damage types, 7 armor types, LoL formula
-- **12 Hero Champions** — 3 per faction with unique abilities
-- **Prestige System** — 3-tier "Metamorphosis Cycles" for endless progression
-- **Offline Idle** — your colony progresses while you sleep (80% rate)
-- **Talent Trees** — 45 nodes per unit across 3 specialization branches
-- **Alliance & Diplomacy** — trade, espionage, war, alliances
+Your productivity fuels your empire. SwarmForge is a full **galactic strategy RPG** embedded inside ImpForge — 4 factions, 80 units, 67,000 planets, 12 hero champions, and a 64-gene genetic algorithm that evolves your armies in real time.
+
+> [Learn more about SwarmForge](https://github.com/AiImpDevelopment/swarmforge)
 
 ---
 
@@ -119,62 +150,92 @@ Your work powers a full RPG game. Write a document? Craft a weapon. Commit code?
 
 | Layer | Technology |
 |-------|-----------|
-| Backend | Rust (native performance) |
-| Frontend | Svelte 5 (reactive, fast) |
-| Framework | Tauri 2.10 (tiny, secure) |
-| AI | Ollama (local), OpenRouter (cloud) |
-| Database | SQLite (embedded, zero config) |
-| Styling | Tailwind CSS v4 + BenikUI Theme Engine |
-
-**Native performance.** Not Electron. Not a web wrapper. Real desktop app.
-
----
-
-## Pricing
-
-| | Free | Pro | Team |
-|---|---|---|---|
-| **Price** | $0 forever | 25 EUR/mo | 20 EUR/user/mo |
-| Local AI (Ollama) | Unlimited | Unlimited | Unlimited |
-| Office Suite | Full | Full | Full |
-| CodeForge IDE | Full | Full | Full |
-| SwarmForge RPG | Full | Full | Full |
-| ForgeFlow Workflows | 3 | Unlimited | Unlimited |
-| Advanced AI Models | 5/day | Unlimited | Unlimited |
-| Team Collaboration | -- | -- | Full |
-| Priority Support | -- | Email | Dedicated |
-
-**Core features are always free.** You never pay to use your own hardware.
+| **Desktop Runtime** | Tauri 2.10 (Rust + WebView) |
+| **Backend** | Rust (292K LoC) — zero-cost abstractions, memory safety |
+| **Frontend** | Svelte 5 (65K LoC) — runes, fine-grained reactivity |
+| **AI Runtime** | Ollama + llama.cpp + OpenRouter |
+| **Database** | SQLite (bundled, WAL mode) |
+| **Game Engine** | Custom 20Hz tick simulation |
+| **Build Targets** | Linux (.deb, .AppImage), Windows (.msi), macOS (.dmg) |
 
 ---
 
 ## Download
 
-Coming soon for **Linux**, **Windows**, and **macOS**.
+### System Requirements
 
-Join the waitlist: [impforge.dev](https://impforge.dev)
+| | Minimum | Recommended |
+|---|---------|-------------|
+| **OS** | Windows 10, macOS 12, Ubuntu 22.04 | Windows 11, macOS 14, Ubuntu 24.04 |
+| **RAM** | 8 GB | 16 GB |
+| **Storage** | 2 GB | 10 GB (with local AI models) |
+| **GPU** | Not required | NVIDIA/AMD for local AI acceleration |
+
+### Installation
+
+Coming soon. Join the waitlist at [impforge.dev](https://impforge.dev).
+
+```bash
+# Linux (Debian/Ubuntu)
+sudo dpkg -i impforge_0.6.0_amd64.deb
+
+# Linux (AppImage)
+chmod +x ImpForge_0.6.0.AppImage && ./ImpForge_0.6.0.AppImage
+
+# macOS
+open ImpForge_0.6.0.dmg
+
+# Windows
+# Run ImpForge_0.6.0_x64_en-US.msi
+```
+
+---
+
+## Pricing
+
+| | **Free** | **Pro** | **Team** |
+|---|----------|---------|----------|
+| **Price** | EUR 0 | **EUR 25/mo** | **EUR 20/user/mo** |
+| AI Chat (local models) | Unlimited | Unlimited | Unlimited |
+| Office Suite | Basic | Full | Full |
+| CodeForge IDE | Basic | Full | Full |
+| Industry Tools | 50 | 3,600 | 3,600 |
+| ForgeFlow Automations | 5 | Unlimited | Unlimited |
+| Built-in Tools | 30 | 176 | 176 |
+| SwarmForge RPG | Demo | Full | Full |
+| Cloud AI Models | -- | 28+ models | 28+ models |
+| Team Features | -- | -- | Full P2P collaboration |
+| Priority Support | -- | Email | Dedicated |
+
+> **30-day free trial** of Pro — no credit card required.
 
 ---
 
 ## Privacy & Security
 
-- **100% offline-capable** — no internet required for any core feature
-- **Zero telemetry** — no tracking, no analytics, no phone-home
-- **Your data, your machine** — nothing ever leaves your device
-- **GDPR/DSGVO compliant** — Privacy by Design, built in Germany
-- **EU AI Act ready** — transparent AI, full user control
-- **Encrypted vault** — AES-256-GCM + Argon2id for passwords
+ImpForge is built on a simple principle: **your data belongs to you**.
+
+- **100% Offline** — every feature works without internet
+- **Zero Telemetry** — we never collect usage data
+- **Local AI** — Ollama models run entirely on your hardware
+- **No Cloud Lock-in** — SQLite database, standard file formats
+- **Open Core** — auditable codebase under ELv2
 
 ---
 
-## License
+## Company
 
-[Elastic License v2 (ELv2)](LICENSE) — free to use, modify, and self-host. Cannot be offered as a managed SaaS service.
+**AiImp Technology**
+Karsten Schildgen
+Germany
+
+- Website: [impforge.dev](https://impforge.dev)
+- GitHub: [AiImpDevelopment](https://github.com/AiImpDevelopment)
+- License: [Elastic License v2 (ELv2)](https://www.elastic.co/licensing/elastic-license)
 
 ---
 
 <p align="center">
-  <strong>Built with passion by <a href="https://github.com/AiImpDevelopment">AiImp Technology</a></strong><br/>
-  <em>Karsten Schildgen &bull; Germany</em><br/><br/>
-  &copy; 2026 AiImp Technology. All rights reserved.
+  <strong>Stop renting your tools. Own them.</strong><br/>
+  <a href="https://impforge.dev">Get ImpForge</a>
 </p>
