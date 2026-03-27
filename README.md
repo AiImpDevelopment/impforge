@@ -1,263 +1,167 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/ImpForge_2.0-AI--Native_Desktop_OS-00ff66?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGZmNjYiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTEyIDJ2NCIvPjxwYXRoIGQ9Ik0xMiAxOHY0Ii8+PHBhdGggZD0ibTQuOTMgNC45MyAyLjgzIDIuODMiLz48cGF0aCBkPSJtMTYuMjQgMTYuMjQgMi44MyAyLjgzIi8+PHBhdGggZD0iTTIgMTJoNCIvPjxwYXRoIGQ9Ik0xOCAxMmg0Ii8+PHBhdGggZD0ibTQuOTMgMTkuMDcgMi44My0yLjgzIi8+PHBhdGggZD0ibTE2LjI0IDcuNzYgMi44My0yLjgzIi8+PC9zdmc+" alt="ImpForge" />
+  <img src="https://img.shields.io/badge/ImpForge_2.0-AI--Native_Desktop_OS-00ff66?style=for-the-badge" alt="ImpForge" />
 </p>
 
 <h1 align="center">ImpForge 2.0</h1>
 
+<h3 align="center">The world's first AI-native Desktop Operating System.</h3>
+
 <p align="center">
-  <strong>The world's first AI-native Desktop Operating System.</strong><br/>
-  One app replaces your entire software stack. 155+ modules. 100% offline. Your data stays yours.
+  <strong>One app. Your complete AI stack. 100% offline. 100% private.</strong>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0.0-00ff66?style=flat-square" alt="Version" />
-  <img src="https://img.shields.io/badge/tests-4,543-passing-22c55e?style=flat-square" alt="Tests" />
   <img src="https://img.shields.io/badge/modules-155+-3b82f6?style=flat-square" alt="Modules" />
-  <img src="https://img.shields.io/badge/commands-1,766-ff6600?style=flat-square" alt="Commands" />
-  <img src="https://img.shields.io/badge/LoC-430K+-a855f7?style=flat-square" alt="LoC" />
-  <img src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-888?style=flat-square" alt="Platform" />
-  <img src="https://img.shields.io/badge/license-ELv2-blue?style=flat-square" alt="License" />
+  <img src="https://img.shields.io/badge/tests-4,543-22c55e?style=flat-square" alt="Tests" />
   <img src="https://img.shields.io/badge/offline-100%25-22c55e?style=flat-square" alt="Offline" />
-  <img src="https://img.shields.io/badge/industry_tools-5,133-f59e0b?style=flat-square" alt="Industry Tools" />
-  <img src="https://img.shields.io/badge/quality_rules-28,228-ff6600?style=flat-square" alt="Quality Rules" />
+  <img src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-888?style=flat-square" alt="Platform" />
+  <img src="https://img.shields.io/badge/price-from%20EUR%200-f59e0b?style=flat-square" alt="Free" />
+</p>
+
+<p align="center">
+  <a href="#stop-paying-for-15-subscriptions">Why ImpForge?</a> &bull;
+  <a href="#what-you-get">Features</a> &bull;
+  <a href="#pricing">Pricing</a> &bull;
+  <a href="#download">Download</a> &bull;
+  <a href="#built-different">Tech</a>
 </p>
 
 ---
 
-## What is ImpForge?
+## Stop paying for 15 subscriptions.
 
-ImpForge replaces **your entire software stack** with one native desktop app:
+You're spending **EUR 300+ per month** on tools that don't talk to each other, send your data to 20 different servers, and charge you per AI query.
 
-> **Cursor + GitHub Copilot + Microsoft 365 + Adobe Acrobat + Notion + Obsidian + Linear + Raycast + Rewind AI + Superhuman + n8n + Slack + Bloomberg + Salesforce — in one app that runs without internet.**
+**ImpForge replaces all of them. For EUR 12/month. Running 100% on your machine.**
 
-No cloud required. No credit limits. No subscriptions for core features. No data leaves your machine.
+| What you're paying for | Monthly cost | ImpForge replaces it |
+|------------------------|-------------|---------------------|
+| Cursor Pro | $20 | Full AI IDE with multi-file editing, inline completion, 5 coding agents |
+| GitHub Copilot | $10 | Local ghost-text completion — no credit limits, ever |
+| Microsoft 365 | $12 | Complete office suite: Writer, Sheets, Slides, PDF, Canvas |
+| Notion | $10 | Knowledge base with wiki-links, AI connections, graph view |
+| Linear | $8 | Keyboard-first project management with OKR tracking |
+| Superhuman | $30 | AI-prioritized inbox, 4-tone smart reply, thread summary |
+| Rewind AI | $19 | Searchable screen memory — encrypted, local, private |
+| n8n Cloud | $20 | Visual workflow automation + AI workflow learning |
+| Slack Pro | $8 | Team collaboration with real-time CRDT sync |
+| Adobe Acrobat | $20 | PDF editing, Contract AI, document transformation |
+| **TOTAL** | **$157/mo** | **ImpForge: EUR 12/mo** |
 
-### Why ImpForge wins
-
-| Problem | ImpForge Solution |
-|---------|-------------------|
-| 15+ SaaS subscriptions ($300+/mo) | One app, one price (EUR 12/mo) |
-| Your data on 20 different servers | Everything encrypted on YOUR machine |
-| AI tools need internet & credits | Local LLMs, no limits, no cost per query |
-| Tools don't talk to each other | 155+ modules connected via Shared Context Store |
-| Credit-based AI pricing anxiety | Flat rate, unlimited local AI inference |
-| No privacy with cloud AI | All AI runs locally via Ollama |
-
----
-
-## What ImpForge replaces
-
-### AI & Coding (beats Cursor, Copilot, JetBrains Air, Claude Code)
-
-| Feature | ImpForge Module | What it does |
-|---------|----------------|-------------|
-| **Multi-File Composer** | `composer_engine` | "Refactor auth to JWT" modifies 20+ files simultaneously |
-| **Inline Completion** | `inline_completion` | Ghost-text Tab-to-accept, Fill-in-the-Middle, NO credit limits |
-| **Coding Agent Hub** | `coding_agent_orchestrator` | Dispatches Claude Code, Cursor, Aider as sidecars |
-| **Agent Client Protocol** | `acp_protocol` | JetBrains Air / Zed compatible vendor-neutral protocol |
-| **42-Agent CIP** | `collective_intelligence` | Hebbian Trust scoring, MoA ensemble, Verifier Cascade |
-| **Speculative Decoding** | `speculative_decode` | 2.9x faster inference (CPU drafts, GPU verifies) |
-| **Thinking Engine** | `thinking_engine` | Visible Chain-of-Thought reasoning (DeepSeek R1 pattern) |
-| **30 Built-in Tools** | `tool_calling` | OpenAI-compatible function calling, local execution |
-| **A-RAG Retrieval** | `arag` | 3-tool hierarchical retrieval (keyword + semantic + chunk) |
-| **Difficulty Router** | `difficulty_router` | 5-tier query routing, 64% cost reduction |
-| **Project Rules** | `project_rules` | Hierarchical AI instructions across ALL modules |
-| **Vision AI** | `vision` | LLaVA multimodal image analysis via Ollama |
-| **LoRA Adapters** | `lora_manager` | 12 domain-specific adapters for specialized inference |
-
-### Office Suite (beats Microsoft 365, Google Workspace, Adobe)
-
-| Feature | ImpForge Module | What it does |
-|---------|----------------|-------------|
-| **ForgeWriter** | `forge_writer` + `track_changes` | Word replacement with AI actions, tracked changes |
-| **ForgeSheets** | `forge_sheets` + `formula_engine` | 100 formulas, =AI() cell functions, pivot tables |
-| **ForgeSlides** | `forge_slides` | Presentation creator with AI generation, 6 layouts |
-| **ForgePDF** | `forge_pdf` + `document_transform` | PDF→Presentation, Contract AI, digital signatures |
-| **ForgeCanvas** | `canvas_blocks` | 15-type block editor (Notion-style, composable) |
-| **Spreadsheet Agent** | `spreadsheet_agent` | ML predictions, AI commentary, auto-dashboard |
-| **8 Chart Types** | `charts_engine` | Bar, Line, Pie, Scatter, Area, Radar, Candlestick, Histogram |
-| **Pivot Tables** | `pivot_table` | Multi-level grouping, 11 aggregation types |
-| **Multi-Step Cowork** | `cowork_engine` | Complex tasks across modules (M365 Copilot killer) |
-| **Document Engine** | `document_engine` | OOXML/ODF/PDF read/write/convert |
-
-### Knowledge & Productivity (beats Notion, Obsidian, Linear, Raycast)
-
-| Feature | ImpForge Module | What it does |
-|---------|----------------|-------------|
-| **ForgeNotes** | `forge_notes` | Wiki-links, bidirectional backlinks, semantic search |
-| **Knowledge Graph** | `knowledge_graph_viz` | Force-directed visualization, clusters, SVG export |
-| **Database Agent** | `database_agent` | NL queries, auto-actions, scheduled operations |
-| **Automation Hub** | `automation_hub` | Scripts, window mgmt, system control (Raycast killer) |
-| **Keyboard Engine** | `keyboard_engine` | 50+ bindings, VS Code/JetBrains import, cheat sheet |
-| **Canvas-Chat Fusion** | `canvas_fusion` | Generative UI — LLM renders live components in chat |
-| **Command Palette** | `hyper_chat` | 7 workspaces, 100+ commands, bilingual intent (DE/EN) |
-| **Daily Briefing** | `daily_briefing` | Auto-aggregated schedule, tasks, highlights, focus suggestions |
-
-### Communication & Email (beats Superhuman, Slack, Teams)
-
-| Feature | ImpForge Module | What it does |
-|---------|----------------|-------------|
-| **Smart Inbox** | `smart_inbox` | AI-prioritized email, 4-tone smart reply |
-| **ForgeMail** | `forge_mail` | AI compose, thread summary, newsletter detection |
-| **ForgeTeam** | `forge_team` + `websocket_sync` | P2P collaboration, CRDT real-time sync |
-| **Meeting Intelligence** | `meeting_intelligence` | Bot-free transcription, action items, insights |
-| **Voice Input** | `voice_input` | Push-to-talk STT, intent classification |
-
-### Business & Finance (beats Salesforce, Bloomberg, n8n)
-
-| Feature | ImpForge Module | What it does |
-|---------|----------------|-------------|
-| **ForgeTrading** | `forge_trading` | 8 indicators (SMA/EMA/RSI/MACD/Bollinger), backtesting |
-| **CRM Intelligence** | `crm_intelligence` | Deal scoring, customer health, pipeline forecast |
-| **BI Analytics** | `bi_analytics` | Anomaly detection, Monte Carlo, KPI cards |
-| **OKR Tracker** | `okr_tracker` | Confidence scoring, trajectory prediction |
-| **NL-to-SQL** | `nl_to_sql` | Natural language → SQL queries |
-| **5,133 SaaS Tools** | `forge_industry` | 25 industries × 200+ tools each |
-| **SaaS Bridge** | `saas_bridge` | 30 providers, native + API mode toggle |
-
-### OS Integration & AI (beats Rewind AI, Microsoft Recall)
-
-| Feature | ImpForge Module | What it does |
-|---------|----------------|-------------|
-| **OS Agent** | `os_agent` | Screenshot→Action pipeline with 4-tier safety |
-| **Screen Recall** | `screen_recall` | Searchable screen memory, encrypted, opt-in only |
-| **Activity Monitor** | `activity_monitor` | Flow-aware context, user mode detection |
-| **Clipboard Intel** | `clipboard_intelligence` | Smart clipboard with content classification |
-| **Process Miner** | `process_miner` | Discover automatable workflows from behavior |
-| **Workflow Learner** | `workflow_learner` | Learn from demonstrations (ShowUI-Aloha pattern) |
-| **System Daemon** | `system_daemon` | Background service (systemd/launchd/Windows) |
-| **Intelligence Pipeline** | `intelligence_pipeline` | Event→Enrichment→Context assembly |
-
-### Enterprise & Compliance
-
-| Feature | ImpForge Module | What it does |
-|---------|----------------|-------------|
-| **EU AI Act** | `legal_compliance` | 35+ compliance checks (GDPR, CCPA, BFSG, HIPAA) |
-| **RBAC** | `rbac_engine` | 5 roles, per-module permissions |
-| **Audit Log** | `audit_log` | SHA-256 hash chain, SOC 2 compliant |
-| **API Gateway** | `api_gateway` | 30 REST endpoints, OpenAPI 3.0 spec |
-| **License Manager** | `license_manager` | Offline HMAC key validation |
-| **PII Protection** | `pii_protection` | Mask-process-unmask pipeline |
-| **Data Export** | `data_export` | GDPR Art. 20 portability, 5 formats |
-| **Workspace Manager** | `workspace_manager` | Multi-tenant isolation |
-| **SLA Monitor** | `sla_monitor` | 99.9% uptime tracking |
-| **Module Health** | `module_health` | Circuit breaker + resilience stack |
-
-### Gamification (unique — no competitor has this)
-
-| Feature | ImpForge Module | What it does |
-|---------|----------------|-------------|
-| **XP System** | `gamification` | 27 XP actions, 8 skill trees, 100 achievements |
-| **SwarmForge RPG** | `forge_quest` | 4-faction galactic strategy, 80 units, 67K planets |
-| **NPC AI** | `swarmforge_npc` | 4 AI faction personalities, decision trees |
-| **Achievements** | `achievements` | 40 core + 60 extended badges |
-| **Leaderboards** | `gamification` | Weekly/Monthly/AllTime team rankings |
-
-### Design & Themes
-
-| Feature | ImpForge Module | What it does |
-|---------|----------------|-------------|
-| **12 Themes** | `theme_engine_v2` | Opera GX, Dracula, Nord, Catppuccin, Tokyo Night, Cyberpunk... |
-| **Design Tokens** | `design_tokens` | W3C DTCG spec, CSS/Tailwind/Figma export |
-| **10 Layouts** | `layout_templates` | Developer, Office, Trading, Creative, Minimal... |
-| **BenikUI Engine** | `style_engine` | 3-layer token system, instant theme switching |
-| **Adaptive Onboarding** | `onboarding_engine` | 7 personas, AI-driven configuration |
+> **That's 13x cheaper. And your data never leaves your machine.**
 
 ---
 
-## Tech Stack
+## What you get
 
-| Layer | Technology | Purpose |
-|-------|-----------|---------|
-| **Backend** | Rust + Tokio | 303 source files, memory-safe, async |
-| **Frontend** | Svelte 5 (runes) | 231 components, reactive, zero-overhead |
-| **Desktop** | Tauri 2.10 | 2.5MB binary, capability-based security |
-| **Database** | SQLite (WAL) | Embedded, zero-config, encrypted |
-| **AI Runtime** | Ollama | Local LLMs, no cloud dependency |
-| **Search** | BM25 + HNSW | Hybrid keyword + semantic search |
-| **Collaboration** | CRDT + WebSocket | Real-time, conflict-free, P2P-ready |
-| **Protocol** | MCP + ACP | Universal agent/tool integration |
+### An AI that actually understands your work
 
-### Performance vs Electron Apps
+ImpForge doesn't just autocomplete code. It **understands everything you do** — your documents, emails, meetings, tasks, browsing history, and code — through a unified AI context layer. When you ask "What was that email about the Q3 budget?", ImpForge finds it instantly. When you say "Create a presentation from last week's sales data", it pulls numbers from Sheets, builds charts, writes slides, and exports a PDF. Automatically.
 
-| Metric | ImpForge (Tauri) | VS Code (Electron) | Advantage |
-|--------|------------------|---------------------|-----------|
-| Binary size | 2.5-10 MB | 80-120 MB | **10-40x smaller** |
-| Idle memory | 30-50 MB | 150-300 MB | **3-10x less** |
-| Startup time | <500ms | 1-4 seconds | **2-8x faster** |
-| CPU at idle | 0-1% | 2-5% | Significantly lower |
+**42 specialized AI agents** work together using local models (no cloud required):
+- A Code Agent for programming (matches Claude Code quality)
+- A Writing Agent for documents and emails
+- A Research Agent for finding information
+- A Finance Agent for data analysis
+- And 38 more — each expert in their domain
+
+### A complete office suite — built from scratch in Rust
+
+**Writer** replaces Word. **Sheets** replaces Excel (100 formulas, AI cell functions like `=AI("summarize this")`). **Slides** replaces PowerPoint. **PDF** replaces Adobe Acrobat (with Contract AI that auto-extracts key terms). **Canvas** is a Notion-style block editor where you mix text, code, tables, and charts freely.
+
+All documents share intelligence. The AI knows what's in your spreadsheets when you're writing a report. It references your notes when composing an email. Everything is connected.
+
+### An IDE that outperforms Cursor
+
+Multi-file refactoring. Inline ghost-text completion. 5 coding agent integrations (Claude Code, Cursor, Aider, Copilot, any ACP-compatible agent). Visible chain-of-thought reasoning. 28,228 quality rules. 350 framework-specific rules for React, Vue, Django, Spring, Rust, Swift, and Flutter. All running locally.
+
+### Your entire digital life, searchable
+
+Screen Recall captures and indexes everything you see (opt-in, encrypted). Smart Clipboard classifies everything you copy. Activity Monitor tracks your flow state. Process Miner discovers automatable patterns. Daily Briefing aggregates your schedule, tasks, and priorities every morning.
+
+### 5,133 industry-specific tools
+
+From Healthcare to FinTech, Construction to Cybersecurity — **25 industries with 200+ tools each**. Contract analyzers, compliance checkers, trading indicators, patient schedulers, logistics optimizers. All self-written, all running locally, with optional API bridges to the original SaaS tools.
+
+### A strategy RPG that makes you more productive
+
+**SwarmForge** turns your work into an empire. Code commits generate Dark Matter. Bug fixes unlock rare units. Streaks power up your armies. 4 AI-controlled factions fight for galactic dominance across 67,000 planets. Your skill trees level up as you code in different languages.
+
+*No other productivity tool in the world has this.*
+
+---
+
+## Built different
+
+| | ImpForge | Electron Apps (VS Code, Slack, Notion) |
+|---|----------|---------------------------------------|
+| **Binary size** | 2.5-10 MB | 80-150 MB |
+| **Idle memory** | 30-50 MB | 200-500 MB |
+| **Startup** | <500ms | 1-4 seconds |
+| **AI** | Local, unlimited, private | Cloud, limited, tracked |
+| **Data** | Your machine only | Their servers |
+| **Language** | Rust (memory-safe) | JavaScript (1000x more bugs) |
+
+Built with **Tauri 2 + Rust + Svelte 5**. Not a wrapper around a browser. A real native application.
 
 ---
 
 ## Pricing
 
-| Tier | Price | What you get |
-|------|-------|-------------|
-| **Free** | EUR 0 | 1 local model, basic IDE, 10 notes, 3 workflows |
-| **Solo** | EUR 12/mo | Full IDE, unlimited local AI, full Office Suite, 20 workflows |
-| **Pro** | EUR 25/mo | + NeuralSwarm (42 agents), cloud AI, full Trading, SwarmForge |
-| **Team** | EUR 20/user/mo | + CRDT collab, admin dashboard, team analytics |
-| **Enterprise** | Custom | + SSO, audit logs, RBAC, on-prem, SLA |
+| | Free | Solo | Pro | Team |
+|---|------|------|-----|------|
+| **Price** | EUR 0 | EUR 12/mo | EUR 25/mo | EUR 20/user/mo |
+| Local AI models | 1 | Unlimited | Unlimited | Unlimited |
+| IDE | Basic | Full | Full | Full |
+| Office Suite | Limited | Full | Full | Full |
+| Industry Tools | 50 | 5,133 | 5,133 | 5,133 |
+| SwarmForge | Demo | — | Full | Full |
+| AI Agents | — | — | 42 agents | 42 agents |
+| Cloud AI fallback | — | — | Yes | Yes |
+| Team collaboration | — | — | — | Yes |
+| RBAC & Audit logs | — | — | — | Yes |
+
+**No credit limits. No per-query pricing. No surprise bills.**
 
 ---
 
-## Quick Start
+## Download
 
 ```bash
-# Linux (.deb)
+# Linux
 sudo dpkg -i impforge_2.0.0_amd64.deb
-
-# Linux (AppImage)
-chmod +x ImpForge_2.0.0.AppImage && ./ImpForge_2.0.0.AppImage
 
 # macOS
 open ImpForge_2.0.0.dmg
 
 # Windows
-# Run ImpForge_2.0.0_x64_en-US.msi
+ImpForge_2.0.0_x64_en-US.msi
 ```
 
----
-
-## Numbers
-
-| Metric | Value |
-|--------|-------|
-| Total LoC | 430,000+ |
-| Rust Backend LoC | 362,644 |
-| Svelte Frontend LoC | 73,384 |
-| Engine Crate LoC | 4,990 |
-| Rust Source Files | 303 |
-| Svelte Components | 231 |
-| Unit Tests | 4,543 |
-| Tauri IPC Commands | 1,766 |
-| Backend Modules | 155+ |
-| Route Pages | 38 |
-| Svelte Stores | 31 |
-| Quality Rules | 28,228 |
-| Industry SaaS Tools | 5,133 (25 industries) |
-| Framework Rules | 350 (7 frameworks) |
-| Spreadsheet Formulas | 100 |
-| Chart Types | 8 |
-| Themes | 12 |
-| Layout Templates | 10 |
-| Tree-sitter Languages | 32 |
-| Cargo Dependencies | 146 |
-| NPM Dependencies | 103 |
+**Requirements**: 8GB RAM (16GB recommended), 2GB disk space, any GPU for AI acceleration (optional)
 
 ---
 
-## License
+## Privacy & Compliance
 
-- **Application**: Elastic License v2 (ELv2)
-- **Engine Crate**: Business Source License 1.1 (BUSL-1.1), converts to Apache 2.0 after change date
-- **Dependencies**: MIT/Apache-2.0/BSD only — **zero GPL/AGPL**
+- **EU AI Act compliant** (35+ compliance checks built-in)
+- **GDPR by design** — all data local, no transfers
+- **CCPA, BFSG, HIPAA** compliance modules
+- **SOC 2 ready** — immutable audit logs with hash chain
+- **PII protection** — automatic detection and masking
+- **Data portability** — export everything in 5 formats (GDPR Art. 20)
+
+---
+
+## Made in Germany
+
+ImpForge is built by a solo developer in Germany with a clear mission: **give people back control over their tools and data.** No VC. No tracking. No dark patterns. Just great software that respects your privacy and makes you productive.
 
 ---
 
 <p align="center">
-  <strong>ImpForge 2.0 — The AI-native Desktop OS</strong><br/>
-  Built in Germany. Privacy-first. Offline-first. Enterprise-ready.<br/><br/>
-  <a href="https://github.com/AiImpDevelopment/impforge">GitHub</a> &bull;
-  <a href="https://github.com/AiImpDevelopment/swarmforge">SwarmForge</a>
+  <strong>ImpForge 2.0 — Your AI. Your Data. Your Machine.</strong><br/><br/>
+  <a href="https://github.com/AiImpDevelopment/impforge">Star on GitHub</a> &bull;
+  <a href="https://github.com/AiImpDevelopment/swarmforge">SwarmForge RPG</a>
 </p>
