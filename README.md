@@ -6,19 +6,19 @@
 
 <p align="center">
   <strong>The world's first adaptive, offline-first AI Workstation.</strong><br/>
-  411K+ lines of code. 120+ modules. 5,020 industry tools. One app. Your data stays yours.
+  425K+ lines of code. 150+ modules. 5,133 industry tools. One app. Your data stays yours.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.9.0-00ff66?style=flat-square" alt="Version" />
-  <img src="https://img.shields.io/badge/tests-3,785+-passing-22c55e?style=flat-square" alt="Tests" />
-  <img src="https://img.shields.io/badge/modules-120+-3b82f6?style=flat-square" alt="Modules" />
-  <img src="https://img.shields.io/badge/commands-1,562-ff6600?style=flat-square" alt="Commands" />
+  <img src="https://img.shields.io/badge/version-2.0.0-00ff66?style=flat-square" alt="Version" />
+  <img src="https://img.shields.io/badge/tests-4,426+-passing-22c55e?style=flat-square" alt="Tests" />
+  <img src="https://img.shields.io/badge/modules-150+-3b82f6?style=flat-square" alt="Modules" />
+  <img src="https://img.shields.io/badge/commands-1,746-ff6600?style=flat-square" alt="Commands" />
   <img src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-a855f7?style=flat-square" alt="Platform" />
   <img src="https://img.shields.io/badge/license-ELv2-blue?style=flat-square" alt="License" />
   <img src="https://img.shields.io/badge/offline-100%25-22c55e?style=flat-square" alt="Offline" />
   <img src="https://img.shields.io/badge/AI%20models-100+-ff6600?style=flat-square" alt="AI Models" />
-  <img src="https://img.shields.io/badge/industry%20tools-5,020-f59e0b?style=flat-square" alt="Industry Tools" />
+  <img src="https://img.shields.io/badge/industry%20tools-5,133-f59e0b?style=flat-square" alt="Industry Tools" />
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 
 ## What is ImpForge?
 
-ImpForge replaces your entire software stack with **one native desktop app**. AI chat, office suite, full IDE, workflow automation, 5,020 industry-specific SaaS tools, team collaboration, and a complete strategy RPG game — all **offline-first** and **100% private**.
+ImpForge replaces your entire software stack with **one native desktop app**. AI chat, office suite, full IDE, workflow automation, 5,133 industry-specific SaaS tools, team collaboration, and a complete strategy RPG game — all **offline-first** and **100% private**.
 
 No cloud required. No subscriptions for core features. No data leaves your machine.
 
@@ -49,7 +49,7 @@ No cloud required. No subscriptions for core features. No data leaves your machi
 | 10+ SaaS subscriptions ($200+/mo) | One app, one price |
 | Your data on 15 different servers | Everything on YOUR machine |
 | AI needs internet connection | Ollama runs 100% locally |
-| Industry tools are separate SaaS products | 5,020 tools built-in across 25 industries |
+| Industry tools are separate SaaS products | 5,133 tools built-in across 25 industries |
 | Can't customize anything | Full theme engine + plugin system |
 | Tools don't talk to each other | Intelligent Hub connects ALL modules |
 
@@ -177,16 +177,16 @@ Coming soon. Join the waitlist at [impforge.dev](https://impforge.dev).
 
 ```bash
 # Linux (Debian/Ubuntu)
-sudo dpkg -i impforge_0.9.0_amd64.deb
+sudo dpkg -i impforge_2.0.0_amd64.deb
 
 # Linux (AppImage)
-chmod +x ImpForge_0.9.0.AppImage && ./ImpForge_0.9.0.AppImage
+chmod +x ImpForge_2.0.0.AppImage && ./ImpForge_2.0.0.AppImage
 
 # macOS
-open ImpForge_0.9.0.dmg
+open ImpForge_2.0.0.dmg
 
 # Windows
-# Run ImpForge_0.9.0_x64_en-US.msi
+# Run ImpForge_2.0.0_x64_en-US.msi
 ```
 
 ---
