@@ -6,14 +6,14 @@
 
 <p align="center">
   <strong>The world's first adaptive, offline-first AI Workstation.</strong><br/>
-  425K+ lines of code. 150+ modules. 5,133 industry tools. One app. Your data stays yours.
+  430K+ lines of code. 155+ modules. 5,133 industry tools. One app. Your data stays yours.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0.0-00ff66?style=flat-square" alt="Version" />
-  <img src="https://img.shields.io/badge/tests-4,426+-passing-22c55e?style=flat-square" alt="Tests" />
-  <img src="https://img.shields.io/badge/modules-150+-3b82f6?style=flat-square" alt="Modules" />
-  <img src="https://img.shields.io/badge/commands-1,746-ff6600?style=flat-square" alt="Commands" />
+  <img src="https://img.shields.io/badge/tests-4,543+-passing-22c55e?style=flat-square" alt="Tests" />
+  <img src="https://img.shields.io/badge/modules-155+-3b82f6?style=flat-square" alt="Modules" />
+  <img src="https://img.shields.io/badge/commands-1,766-ff6600?style=flat-square" alt="Commands" />
   <img src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-a855f7?style=flat-square" alt="Platform" />
   <img src="https://img.shields.io/badge/license-ELv2-blue?style=flat-square" alt="License" />
   <img src="https://img.shields.io/badge/offline-100%25-22c55e?style=flat-square" alt="Offline" />
