@@ -1,167 +1,171 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/ImpForge_2.0-AI--Native_Desktop_OS-00ff66?style=for-the-badge" alt="ImpForge" />
+  <img src="https://raw.githubusercontent.com/AiImpDevelopment/impforge/main/assets/logo-256.png" width="128" height="128" alt="ImpForge" />
 </p>
 
-<h1 align="center">ImpForge 2.0</h1>
+<h1 align="center">ImpForge</h1>
 
-<h3 align="center">The world's first AI-native Desktop Operating System.</h3>
-
-<p align="center">
-  <strong>One app. Your complete AI stack. 100% offline. 100% private.</strong>
-</p>
+<h3 align="center">Your complete AI stack. One desktop app. Zero cloud dependency.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2.0.0-00ff66?style=flat-square" alt="Version" />
-  <img src="https://img.shields.io/badge/modules-155+-3b82f6?style=flat-square" alt="Modules" />
-  <img src="https://img.shields.io/badge/tests-4,543-22c55e?style=flat-square" alt="Tests" />
-  <img src="https://img.shields.io/badge/offline-100%25-22c55e?style=flat-square" alt="Offline" />
-  <img src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-888?style=flat-square" alt="Platform" />
-  <img src="https://img.shields.io/badge/price-from%20EUR%200-f59e0b?style=flat-square" alt="Free" />
+  <strong>The world's first AI-native desktop operating environment.</strong><br/>
+  Replace 15+ subscriptions with one app that works 100% offline.
 </p>
 
 <p align="center">
-  <a href="#stop-paying-for-15-subscriptions">Why ImpForge?</a> &bull;
-  <a href="#what-you-get">Features</a> &bull;
-  <a href="#pricing">Pricing</a> &bull;
-  <a href="#download">Download</a> &bull;
-  <a href="#built-different">Tech</a>
+  <a href="#features">Features</a> |
+  <a href="#what-it-replaces">What It Replaces</a> |
+  <a href="#privacy">Privacy</a> |
+  <a href="#pricing">Pricing</a> |
+  <a href="#get-started">Get Started</a>
 </p>
 
 ---
 
-## Stop paying for 15 subscriptions.
+## The Problem
 
-You're spending **EUR 300+ per month** on tools that don't talk to each other, send your data to 20 different servers, and charge you per AI query.
+You're paying for Cursor ($20/mo), Microsoft 365 ($13/mo), Notion ($10/mo), Adobe Acrobat ($15/mo), Grammarly ($12/mo), a dozen more tools -- and your data is scattered across 15 different clouds. None of them talk to each other. Your AI assistant forgets everything between sessions.
 
-**ImpForge replaces all of them. For EUR 12/month. Running 100% on your machine.**
-
-| What you're paying for | Monthly cost | ImpForge replaces it |
-|------------------------|-------------|---------------------|
-| Cursor Pro | $20 | Full AI IDE with multi-file editing, inline completion, 5 coding agents |
-| GitHub Copilot | $10 | Local ghost-text completion — no credit limits, ever |
-| Microsoft 365 | $12 | Complete office suite: Writer, Sheets, Slides, PDF, Canvas |
-| Notion | $10 | Knowledge base with wiki-links, AI connections, graph view |
-| Linear | $8 | Keyboard-first project management with OKR tracking |
-| Superhuman | $30 | AI-prioritized inbox, 4-tone smart reply, thread summary |
-| Rewind AI | $19 | Searchable screen memory — encrypted, local, private |
-| n8n Cloud | $20 | Visual workflow automation + AI workflow learning |
-| Slack Pro | $8 | Team collaboration with real-time CRDT sync |
-| Adobe Acrobat | $20 | PDF editing, Contract AI, document transformation |
-| **TOTAL** | **$157/mo** | **ImpForge: EUR 12/mo** |
-
-> **That's 13x cheaper. And your data never leaves your machine.**
+**ImpForge fixes all of this.**
 
 ---
 
-## What you get
+## What Is ImpForge?
 
-### An AI that actually understands your work
+ImpForge is a **single desktop application** that gives you:
 
-ImpForge doesn't just autocomplete code. It **understands everything you do** — your documents, emails, meetings, tasks, browsing history, and code — through a unified AI context layer. When you ask "What was that email about the Q3 budget?", ImpForge finds it instantly. When you say "Create a presentation from last week's sales data", it pulls numbers from Sheets, builds charts, writes slides, and exports a PDF. Automatically.
+- An **AI coding assistant** that rivals Cursor and GitHub Copilot
+- A **complete office suite** (documents, spreadsheets, presentations, PDF, email, calendar)
+- An **AI knowledge base** that remembers everything and connects your ideas
+- A **workflow automation engine** that replaces Zapier and Make
+- A **browser with built-in AI** that extracts, summarizes, and organizes web content
+- **5,000+ industry-specific tools** for Healthcare, Legal, FinTech, and 22 more verticals
 
-**42 specialized AI agents** work together using local models (no cloud required):
-- A Code Agent for programming (matches Claude Code quality)
-- A Writing Agent for documents and emails
-- A Research Agent for finding information
-- A Finance Agent for data analysis
-- And 38 more — each expert in their domain
-
-### A complete office suite — built from scratch in Rust
-
-**Writer** replaces Word. **Sheets** replaces Excel (100 formulas, AI cell functions like `=AI("summarize this")`). **Slides** replaces PowerPoint. **PDF** replaces Adobe Acrobat (with Contract AI that auto-extracts key terms). **Canvas** is a Notion-style block editor where you mix text, code, tables, and charts freely.
-
-All documents share intelligence. The AI knows what's in your spreadsheets when you're writing a report. It references your notes when composing an email. Everything is connected.
-
-### An IDE that outperforms Cursor
-
-Multi-file refactoring. Inline ghost-text completion. 5 coding agent integrations (Claude Code, Cursor, Aider, Copilot, any ACP-compatible agent). Visible chain-of-thought reasoning. 28,228 quality rules. 350 framework-specific rules for React, Vue, Django, Spring, Rust, Swift, and Flutter. All running locally.
-
-### Your entire digital life, searchable
-
-Screen Recall captures and indexes everything you see (opt-in, encrypted). Smart Clipboard classifies everything you copy. Activity Monitor tracks your flow state. Process Miner discovers automatable patterns. Daily Briefing aggregates your schedule, tasks, and priorities every morning.
-
-### 5,133 industry-specific tools
-
-From Healthcare to FinTech, Construction to Cybersecurity — **25 industries with 200+ tools each**. Contract analyzers, compliance checkers, trading indicators, patient schedulers, logistics optimizers. All self-written, all running locally, with optional API bridges to the original SaaS tools.
-
-### A strategy RPG that makes you more productive
-
-**SwarmForge** turns your work into an empire. Code commits generate Dark Matter. Bug fixes unlock rare units. Streaks power up your armies. 4 AI-controlled factions fight for galactic dominance across 67,000 planets. Your skill trees level up as you code in different languages.
-
-*No other productivity tool in the world has this.*
+All powered by AI models running **on your machine**. Your data never leaves your device.
 
 ---
 
-## Built different
+<a id="features"></a>
+## Features
 
-| | ImpForge | Electron Apps (VS Code, Slack, Notion) |
-|---|----------|---------------------------------------|
-| **Binary size** | 2.5-10 MB | 80-150 MB |
-| **Idle memory** | 30-50 MB | 200-500 MB |
-| **Startup** | <500ms | 1-4 seconds |
-| **AI** | Local, unlimited, private | Cloud, limited, tracked |
-| **Data** | Your machine only | Their servers |
-| **Language** | Rust (memory-safe) | JavaScript (1000x more bugs) |
+### AI That Actually Understands You
 
-Built with **Tauri 2 + Rust + Svelte 5**. Not a wrapper around a browser. A real native application.
+- **Persistent memory** -- ImpForge remembers your preferences, your projects, your communication style
+- **Proactive suggestions** -- It notices when you're stuck and offers help before you ask
+- **Multi-model intelligence** -- Automatically routes your request to the right AI model (fast local model for simple tasks, powerful model for complex ones)
+- **28,000+ quality rules** -- Your code is analyzed against security best practices, performance patterns, and industry standards in real-time
+
+### CodeForge IDE -- Your AI Development Team
+
+- **AI code completion** with ghost text, inline diffs, and multi-buffer editing
+- **Built-in terminal, Git, debugger, and database client**
+- **Language server support** for 35 programming languages
+- **AI code review** that catches security vulnerabilities, performance issues, and architecture smells
+- **Background agents** that can run tests, fix bugs, and refactor code while you work on other things
+
+### Sovereign Office Suite -- Own Your Documents
+
+| App | Replaces | Key Feature |
+|-----|----------|-------------|
+| **ForgeWriter** | Google Docs, Word | AI writing assistant with grammar, translation, and style |
+| **ForgeSheets** | Excel, Google Sheets | 100 formula functions + AI predictions on your data |
+| **ForgeSlides** | PowerPoint, Keynote | AI generates entire presentations from a topic |
+| **ForgePDF** | Adobe Acrobat | View, annotate, extract, summarize, Q&A on any PDF |
+| **ForgeNotes** | Notion, Obsidian | Wiki-links, knowledge graph, AI-connected ideas |
+| **ForgeCalendar** | Google Calendar | ICS import, AI scheduling, daily briefings |
+| **ForgeMail** | Gmail, Outlook | AI compose, categorize, and summarize emails |
+
+### Enterprise Intelligence
+
+- **Compliance engine** for EU AI Act, GDPR, HIPAA, and BFSG
+- **Audit logging** with tamper-evident HMAC chains
+- **Role-based access control** with custom permissions
+- **Encrypted vault** for passwords and API keys (AES-256-GCM + Argon2id)
+- **License management** with offline validation
+
+### Workflow Automation
+
+- **Visual workflow builder** replacing Zapier, Make, and n8n
+- **30+ automation triggers** (file changes, schedules, webhooks, AI events)
+- **Cross-module intelligence** -- your calendar knows about your emails, your code knows about your documents
 
 ---
 
+<a id="what-it-replaces"></a>
+## What It Replaces
+
+| Subscription | Monthly Cost | ImpForge Equivalent |
+|---|---|---|
+| Cursor Pro | $20 | CodeForge IDE with AI agents |
+| GitHub Copilot | $19 | AI code completion + review |
+| Microsoft 365 | $13 | ForgeWriter, ForgeSheets, ForgeSlides |
+| Notion Pro | $10 | ForgeNotes with knowledge graph |
+| Adobe Acrobat | $15 | ForgePDF with AI Q&A |
+| Zapier Starter | $20 | ForgeFlow visual workflows |
+| Grammarly Premium | $12 | Built-in AI writing assistant |
+| 1Password | $5 | ForgeVault (encrypted, local) |
+| Calendly | $10 | ForgeCalendar with AI scheduling |
+| **Total saved** | **$124/mo** | **One app. EUR 12/mo.** |
+
+---
+
+<a id="privacy"></a>
+## Privacy-First Architecture
+
+**Your data never leaves your machine.**
+
+- All AI models run locally via Ollama -- no cloud API calls required
+- All data stored in encrypted local databases
+- No telemetry, no tracking, no analytics sent anywhere
+- Optional cloud AI (OpenRouter) only when you explicitly choose it
+- Open-source AI models you can inspect and audit
+- Sensitive directories (SSH keys, credentials) are automatically protected
+
+We believe AI should make you more productive **without** making you less private.
+
+---
+
+<a id="pricing"></a>
 ## Pricing
 
 | | Free | Solo | Pro | Team |
-|---|------|------|-----|------|
-| **Price** | EUR 0 | EUR 12/mo | EUR 25/mo | EUR 20/user/mo |
-| Local AI models | 1 | Unlimited | Unlimited | Unlimited |
-| IDE | Basic | Full | Full | Full |
+|---|---|---|---|---|
+| **Price** | EUR 0 | EUR 12/mo | EUR 29/mo | EUR 19/user/mo |
 | Office Suite | Limited | Full | Full | Full |
-| Industry Tools | 50 | 5,133 | 5,133 | 5,133 |
-| SwarmForge | Demo | — | Full | Full |
-| AI Agents | — | — | 42 agents | 42 agents |
-| Cloud AI fallback | — | — | Yes | Yes |
-| Team collaboration | — | — | — | Yes |
-| RBAC & Audit logs | — | — | — | Yes |
+| AI Completions | 50/day | Unlimited | Unlimited | Unlimited |
+| Quality Rules | 1,000 | 28,000+ | 28,000+ | 28,000+ |
+| Industry Tools | 10 | 200 | 5,000+ | 5,000+ |
+| Background Agents | - | 1 | 4 parallel | 8 parallel |
+| Team Features | - | - | - | Full |
 
-**No credit limits. No per-query pricing. No surprise bills.**
+All tiers work **100% offline**. No cloud subscription required for core features.
 
 ---
 
-## Download
+<a id="get-started"></a>
+## Get Started
 
-```bash
-# Linux
-sudo dpkg -i impforge_2.0.0_amd64.deb
+### Download
 
-# macOS
-open ImpForge_2.0.0.dmg
+Available for **Linux**, **Windows**, and **macOS**.
 
-# Windows
-ImpForge_2.0.0_x64_en-US.msi
+```
+Coming soon: impforge.dev/download
 ```
 
-**Requirements**: 8GB RAM (16GB recommended), 2GB disk space, any GPU for AI acceleration (optional)
+### System Requirements
+
+- **Minimum**: 8GB RAM, 4-core CPU, 5GB disk
+- **Recommended**: 16GB RAM, 8-core CPU, GPU with 8GB+ VRAM
+- **For local AI**: Ollama installed (free, runs 28+ AI models locally)
 
 ---
 
-## Privacy & Compliance
+## Built by Developers, for Developers
 
-- **EU AI Act compliant** (35+ compliance checks built-in)
-- **GDPR by design** — all data local, no transfers
-- **CCPA, BFSG, HIPAA** compliance modules
-- **SOC 2 ready** — immutable audit logs with hash chain
-- **PII protection** — automatic detection and masking
-- **Data portability** — export everything in 5 formats (GDPR Art. 20)
-
----
-
-## Made in Germany
-
-ImpForge is built by a solo developer in Germany with a clear mission: **give people back control over their tools and data.** No VC. No tracking. No dark patterns. Just great software that respects your privacy and makes you productive.
+ImpForge is built by **AiImp Technology** (Germany) -- a team that believes the future of software is AI-native, privacy-first, and locally-powered. We use ImpForge to build ImpForge.
 
 ---
 
 <p align="center">
-  <strong>ImpForge 2.0 — Your AI. Your Data. Your Machine.</strong><br/><br/>
-  <a href="https://github.com/AiImpDevelopment/impforge">Star on GitHub</a> &bull;
-  <a href="https://github.com/AiImpDevelopment/swarmforge">SwarmForge RPG</a>
+  <strong>Stop paying for 15 subscriptions. Start with one app that does it all.</strong>
 </p>
