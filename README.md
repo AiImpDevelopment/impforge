@@ -134,6 +134,37 @@ Six adaptive modes (Docked, Floating, Ambient, Companion, Fullscreen, Hidden) th
 
 ---
 
+### Train your own AI models — no PhD required
+
+ImpForge includes a **Training Studio** that lets you fine-tune AI models on your own data, directly on your hardware.
+
+- **QLoRA fine-tuning** — train domain-specific models using a fraction of the GPU memory
+- **Auto-detect GPU** — NVIDIA, AMD, or CPU-only, ImpForge configures the pipeline for you
+- **Dataset management** — import from ShareGPT, Alpaca, or ChatML formats
+- **Live metrics** — watch loss curves, learning rates, and GPU utilization in real-time
+- **Export adapters** — merge LoRA weights into a custom model you can deploy anywhere
+
+Your AI gets better at *your* work. Not someone else's.
+
+### Real-time collaboration — no server needed
+
+Work together with your team using **local-first P2P collaboration** that doesn't require a cloud server.
+
+- **CRDT-based sync** — edits merge automatically, even when offline
+- **Peer-to-peer** — connect directly by sharing a key. No server infrastructure to manage
+- **Version history** — time-travel through every change, branch and merge like Git
+- **Works offline** — write separately, sync when you reconnect
+
+Built on research from EuroSys 2025 (eg-walker), the same algorithms powering the next generation of collaborative editors.
+
+### AI inference that's 3-6x faster
+
+ImpForge uses **speculative decoding** (EAGLE-3, ICLR 2026) to accelerate local AI inference by 3-6.5x — without sacrificing quality.
+
+Your local AI responds faster. Your flow stays uninterrupted.
+
+---
+
 ## What ImpForge replaces — and what you save
 
 | Tool | You pay | ImpForge gives you |
@@ -147,10 +178,10 @@ Six adaptive modes (Docked, Floating, Ambient, Companion, Fullscreen, Hidden) th
 | Grammarly Premium | $12/mo | Built-in AI writing + style assistant |
 | 1Password | $5/mo | ForgeVault — encrypted, local, no cloud |
 | Calendly | $10/mo | ForgeCalendar with AI scheduling |
-| **Total** | **$124/mo** | **EUR 12/mo. One app.** |
+| **Total** | **$124+/mo** | **EUR 25/mo. One app.** |
 
 <p align="center">
-  <strong>That's over EUR 1,300 saved per year.</strong>
+  <strong>That's over EUR 1,100 saved per year — and you own your data.</strong>
 </p>
 
 ---
@@ -176,20 +207,25 @@ We built ImpForge on a simple principle: **your work belongs to you.**
 
 ## Simple, honest pricing
 
-| | Free | Solo | Pro | Team |
-|---|:---:|:---:|:---:|:---:|
-| **Price** | EUR 0 | **EUR 12/mo** | EUR 29/mo | EUR 19/user/mo |
-| Office Suite | Basic | **Full** | Full | Full |
-| AI Completions | 50/day | **Unlimited** | Unlimited | Unlimited |
-| Quality Rules | 1,000 | **28,000+** | 28,000+ | 28,000+ |
-| Industry Tools | 10 | 200 | **5,000+** | 5,000+ |
-| Background Agents | — | 1 | **4 parallel** | 8 parallel |
-| Priority Support | — | Email | **Priority** | Dedicated |
-| Team Features | — | — | — | **Full** |
+| | Free | Pro | Team |
+|---|:---:|:---:|:---:|
+| **Price** | EUR 0 | **EUR 25/mo** | EUR 19/user/mo |
+| Office Suite | Basic | **Full** | Full |
+| AI Completions | 50/day | **Unlimited** | Unlimited |
+| Quality Rules | 1,000 | **28,000+** | 28,000+ |
+| Industry Tools | 10 | **5,000+** | 5,000+ |
+| Background Agents | — | **4 parallel** | 8 parallel |
+| Training Studio | — | **Local fine-tuning** | Full |
+| P2P Collaboration | — | — | **Real-time** |
+| Priority Support | — | **Priority** | Dedicated |
 
 Every tier works **100% offline.** No cloud subscription needed for core features.
 
 **14-day free trial of Pro.** No credit card required.
+
+<p align="center">
+  <em>"That's less than what most people pay for Cursor alone — and ImpForge replaces 15 tools."</em>
+</p>
 
 ---
 
@@ -247,7 +283,28 @@ Yes. The Team plan includes real-time collaboration, shared workspaces, and role
 
 ## Built in Germany. Built for professionals.
 
-ImpForge is created by **AiImp Technology** — a German engineering team that believes AI should empower individuals, not surveil them. We use ImpForge every day to build ImpForge.
+ImpForge is created by **AiImp Technology** — a German engineering team that believes AI should empower individuals, not surveil them.
+
+### By the numbers
+
+| | |
+|---|---|
+| **493,000+** | Lines of production Rust + Svelte code |
+| **5,248** | Automated tests — every commit verified |
+| **28,523** | Quality and security rules (OWASP, CWE, ESLint, Clippy) |
+| **5,000+** | Pre-built industry tools across 25 verticals |
+| **35** | Programming languages with full intelligence |
+| **0** | Lines of code sent to any server without your permission |
+
+### Engineering principles
+
+- **Offline-first architecture** — cloud is the fallback, not the default
+- **Zero telemetry** — we don't track what you do. At all
+- **Open-source AI** — every model is inspectable, replaceable, and runs on your hardware
+- **EU AI Act compliant** — built for the August 2026 regulation from day one
+- **GDPR by design** — all data processing happens on your device
+
+We use ImpForge every day to build ImpForge.
 
 <p align="center">
   <br/>
