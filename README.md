@@ -87,6 +87,22 @@ Everything a developer needs, without leaving the app:
 
 A visual **workflow engine** that replaces Zapier and Make — with one advantage: it can connect your code, documents, emails, calendar, and AI in ways no external tool can. Because everything lives in one app.
 
+### Supercharge Claude Code, Cursor, VS Code, and JetBrains
+
+ImpForge doesn't replace your favorite IDE — it **makes it smarter.**
+
+Connect Claude Code, Cursor, VS Code, or JetBrains to ImpForge's intelligence layer and get:
+
+- **Persistent memory** that survives across sessions — your IDE's AI finally remembers your codebase
+- **Local context enrichment** — ImpForge feeds your IDE's AI with project knowledge, reducing hallucinations
+- **Token savings of 30-50%** — small local models handle routine tasks (formatting, linting, simple completions) so cloud models only process what matters
+- **28,000+ quality rules** applied automatically to every file your IDE touches
+- **Knowledge graph** connecting code, docs, emails, and notes — available to any connected tool
+
+ImpForge acts as an **MCP server** (Model Context Protocol) that any AI tool can connect to — including Claude Desktop, GitHub Copilot, and custom agents. Your IDE gets smarter. Your token bill gets smaller.
+
+> Think of ImpForge as the brain that sits behind all your tools. It remembers everything, enriches every AI call with local context, and handles the small stuff so your expensive cloud AI can focus on the hard problems.
+
 ### 5,000+ industry-specific tools
 
 Pre-built workflows and templates for **25 industries** — Healthcare, Legal, Finance, Real Estate, Education, Marketing, and 19 more. Each with domain-specific AI rules and compliance checks.
@@ -98,6 +114,23 @@ Pre-built workflows and templates for **25 industries** — Healthcare, Legal, F
 - **Role-based access control** with granular permissions
 - **Encrypted vault** (AES-256-GCM + Argon2id) for secrets and API keys
 - **Offline license validation** — works without internet
+
+---
+
+### HyperChat — AI that appears when you need it, disappears when you don't
+
+Most AI assistants sit in a fixed sidebar, demanding your attention whether you need them or not. HyperChat is different.
+
+**It watches. It waits. It helps at exactly the right moment.**
+
+- **Writing code?** HyperChat docks to the side with completion suggestions
+- **Watching a tutorial?** It minimizes to a transparent sliver — or hides completely
+- **Hit an error?** It expands automatically with a fix before you even ask
+- **In a video call?** It vanishes. Press Alt+Space to summon it back instantly
+
+Six adaptive modes (Docked, Floating, Ambient, Companion, Fullscreen, Hidden) that switch automatically based on what you're doing. Slash commands (`/code`, `/write`, `/browse`, `/search`) route your request to the right module instantly.
+
+> HyperChat isn't just a chat panel. It's the central nervous system of ImpForge — the one interface that connects all 47 features and adapts to your workflow in real-time.
 
 ---
 
