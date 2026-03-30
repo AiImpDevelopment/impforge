@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/AI-100%25%20Offline%20Capable-green" alt="Offline AI" />
   <img src="https://img.shields.io/badge/License-ELv2-orange" alt="License" />
   <img src="https://img.shields.io/badge/Made%20in-Germany%20%F0%9F%87%A9%F0%9F%87%AA-black" alt="Made in Germany" />
+  <img src="https://img.shields.io/badge/EU%20AI%20Act-Compliant-brightgreen" alt="EU AI Act" />
 </p>
 
 ---
@@ -56,11 +57,13 @@ ImpForge is a **native desktop application** that combines every tool a professi
 
 ## What you get
 
-### An AI that grows with you
+### A Digital Human that grows with you
 
-Your AI assistant has **persistent memory**. It learns your preferences, remembers your projects, and adapts to your communication style. It notices when you're stuck and offers help before you ask.
+Your AI assistant isn't just a chatbot. It's a **Digital Human** — an AI that connects 12 cognitive subsystems into a unified intelligence.
 
-Behind the scenes, ImpForge intelligently routes every request to the right AI model — a fast local model for quick tasks, a more powerful one when complexity demands it. **28,000+ quality rules** analyze your code in real-time against security and performance best practices.
+It **feels** what you feel (cursor emotion detection). It **remembers** what you told it last week (persistent memory with spaced repetition). It **learns** your workflow and adapts its behavior automatically. When you're in flow, it stays silent. When you're stuck, it offers help before you ask.
+
+Behind the scenes, **28,800+ quality rules** — including GDPR, EU AI Act, and OWASP compliance checks — analyze your code in real-time against security and performance best practices.
 
 ### A complete development environment
 
@@ -95,11 +98,11 @@ Connect Claude Code, Cursor, VS Code, or JetBrains to ImpForge's intelligence la
 
 - **Persistent memory** that survives across sessions — your IDE's AI finally remembers your codebase
 - **Local context enrichment** — ImpForge feeds your IDE's AI with project knowledge, reducing hallucinations
-- **Token savings of 30-50%** — small local models handle routine tasks (formatting, linting, simple completions) so cloud models only process what matters
-- **28,000+ quality rules** applied automatically to every file your IDE touches
+- **Token savings of 30-50%** — small local models handle routine tasks so cloud models only process what matters
+- **28,800+ quality rules** applied automatically to every file your IDE touches
 - **Knowledge graph** connecting code, docs, emails, and notes — available to any connected tool
 
-ImpForge acts as an **MCP server** (Model Context Protocol) that any AI tool can connect to — including Claude Desktop, GitHub Copilot, and custom agents. Your IDE gets smarter. Your token bill gets smaller.
+ImpForge acts as an **MCP server** (Model Context Protocol) that any AI tool can connect to — including Claude Desktop, GitHub Copilot, and custom agents.
 
 > Think of ImpForge as the brain that sits behind all your tools. It remembers everything, enriches every AI call with local context, and handles the small stuff so your expensive cloud AI can focus on the hard problems.
 
@@ -109,7 +112,7 @@ Pre-built workflows and templates for **25 industries** — Healthcare, Legal, F
 
 ### Enterprise-ready from day one
 
-- **EU AI Act, GDPR, HIPAA, and BFSG compliance** engine
+- **EU AI Act, GDPR, HIPAA, PCI-DSS, and CWE compliance** engine with 328 regulatory rules
 - **Tamper-evident audit logging** with HMAC verification chains
 - **Role-based access control** with granular permissions
 - **Encrypted vault** (AES-256-GCM + Argon2id) for secrets and API keys
@@ -128,7 +131,7 @@ Most AI assistants sit in a fixed sidebar, demanding your attention whether you 
 - **Hit an error?** It expands automatically with a fix before you even ask
 - **In a video call?** It vanishes. Press Alt+Space to summon it back instantly
 
-Six adaptive modes (Docked, Floating, Ambient, Companion, Fullscreen, Hidden) that switch automatically based on what you're doing. Slash commands (`/code`, `/write`, `/browse`, `/search`) route your request to the right module instantly.
+Six adaptive modes (Docked, Floating, Ambient, Companion, Fullscreen, Hidden) that switch automatically based on what you're doing.
 
 > HyperChat isn't just a chat panel. It's the central nervous system of ImpForge — the one interface that connects all 47 features and adapts to your workflow in real-time.
 
@@ -197,8 +200,6 @@ Work together with your team using **local-first P2P collaboration** that doesn'
 - **Version history** — time-travel through every change, branch and merge like Git
 - **Works offline** — write separately, sync when you reconnect
 
-Built on research from EuroSys 2025 (eg-walker), the same algorithms powering the next generation of collaborative editors.
-
 ### AI inference that's 3-6x faster
 
 ImpForge uses **speculative decoding** (EAGLE-3, ICLR 2026) to accelerate local AI inference by 3-6.5x — without sacrificing quality.
@@ -254,12 +255,14 @@ We built ImpForge on a simple principle: **your work belongs to you.**
 | **Price** | EUR 0 | **EUR 25/mo** | EUR 19/user/mo |
 | Office Suite | Basic | **Full** | Full |
 | AI Completions | 50/day | **Unlimited** | Unlimited |
-| Quality Rules | 1,000 | **28,000+** | 28,000+ |
+| Quality Rules | 1,000 | **28,800+** | 28,800+ |
+| Compliance (GDPR, EU AI Act) | -- | **Full** | Full |
 | Industry Tools | 10 | **5,000+** | 5,000+ |
-| Background Agents | — | **4 parallel** | 8 parallel |
-| Training Studio | — | **Local fine-tuning** | Full |
-| P2P Collaboration | — | — | **Real-time** |
-| Priority Support | — | **Priority** | Dedicated |
+| AI Board of Directors | 3 questions/day | **Unlimited** | Unlimited |
+| Background Agents | -- | **4 parallel** | 8 parallel |
+| Training Studio | -- | **Local fine-tuning** | Full |
+| P2P Collaboration | -- | -- | **Real-time** |
+| Priority Support | -- | **Priority** | Dedicated |
 
 Every tier works **100% offline.** No cloud subscription needed for core features.
 
@@ -318,6 +321,9 @@ Yes. ForgeVault uses AES-256-GCM encryption with Argon2id key derivation — the
 **What AI models does it support?**
 Any model that runs on Ollama (Llama, Qwen, Mistral, Gemma, DeepSeek, and 200+ more). Plus 28+ free cloud models via OpenRouter when you want more power.
 
+**Is ImpForge EU AI Act compliant?**
+Yes. ImpForge includes a dedicated compliance engine with 328 regulatory rules covering GDPR, EU AI Act (Art. 9-56), PCI-DSS v4.0.1, HIPAA, and CWE security standards. We've been building for the August 2, 2026 deadline from the start.
+
 **Can I use it with my team?**
 Yes. The Team plan includes real-time collaboration, shared workspaces, and role-based access control.
 
@@ -331,9 +337,9 @@ ImpForge is created by **AiImp Technology** — a German engineering team that b
 
 | | |
 |---|---|
-| **493,000+** | Lines of production Rust + Svelte code |
-| **5,248** | Automated tests — every commit verified |
-| **28,523** | Quality and security rules (OWASP, CWE, ESLint, Clippy) |
+| **506,000+** | Lines of production Rust + Svelte code |
+| **5,357** | Automated tests — every commit verified |
+| **28,851** | Quality and security rules (OWASP, CWE, GDPR, EU AI Act, ESLint, Clippy) |
 | **5,000+** | Pre-built industry tools across 25 verticals |
 | **35** | Programming languages with full intelligence |
 | **0** | Lines of code sent to any server without your permission |
@@ -345,6 +351,7 @@ ImpForge is created by **AiImp Technology** — a German engineering team that b
 - **Open-source AI** — every model is inspectable, replaceable, and runs on your hardware
 - **EU AI Act compliant** — built for the August 2026 regulation from day one
 - **GDPR by design** — all data processing happens on your device
+- **6 compliance frameworks** — GDPR, EU AI Act, CWE, OWASP, PCI-DSS, HIPAA
 
 We use ImpForge every day to build ImpForge.
 
