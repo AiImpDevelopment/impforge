@@ -134,6 +134,48 @@ Six adaptive modes (Docked, Floating, Ambient, Companion, Fullscreen, Hidden) th
 
 ---
 
+### Your AI Board of Directors — 10 experts, one question
+
+Every decision you make matters. ImpForge gives you something no other tool offers: **a complete executive team that thinks with you.**
+
+Ask any question — "Should I take this client?" or "Is this contract fair?" or "When should I launch?" — and **10 specialized AI advisors** analyze it from their unique perspective:
+
+| Role | What they focus on |
+|------|-------------------|
+| **CEO** | Long-term vision, strategy synthesis |
+| **CFO** | Budget, ROI, cash flow risk |
+| **CTO** | Technical feasibility, architecture |
+| **CMO** | Market positioning, customer value |
+| **COO** | Execution capacity, team workload |
+| **CIO** | Investment timing, market dynamics |
+| **Analyst** | Data-driven trends, competitive benchmarks |
+| **Legal** | Contracts, compliance, EU AI Act, GDPR |
+| **HR** | Team capacity, hiring needs, culture impact |
+| **Auditor** | Quality gates, governance, risk verification |
+
+They **debate each other**. They **vote**. Dissenting opinions are recorded. The CEO synthesizes a final recommendation — and you decide.
+
+> "I asked my ImpForge board whether to raise my prices. The CFO showed me the unit economics. The CMO warned about competitor positioning. The CTO said the product quality justifies it. The CEO recommended a phased increase with grandfathered existing customers. Better advice than any consultant I've ever paid." — Early Access User
+
+**This feature exists nowhere else.** Not in Cursor. Not in Microsoft Copilot. Not in Notion. Not in any product at any price.
+
+---
+
+### An AI that feels what you feel
+
+ImpForge detects your emotional state from how you move your mouse — **no cameras, no microphones, no special hardware.**
+
+- **Frustrated?** (rage clicks, erratic movement) → Your AI Board proactively offers help
+- **In flow?** (steady, focused movement) → ImpForge stays completely silent
+- **Fatigued?** (slowing down, long pauses) → A gentle reminder to take a break
+- **Hesitating?** (cursor hovering between options) → The CIO offers a quick risk-reward analysis
+
+Based on 30+ peer-reviewed studies (Yamauchi & Xiao 2018, Schuller et al. 2004, Huang et al. CHI 2011). **77-90% accuracy** for frustration and engagement detection.
+
+> Your AI assistant shouldn't just respond when you ask. It should know when you need help — and when to leave you alone.
+
+---
+
 ### Train your own AI models — no PhD required
 
 ImpForge includes a **Training Studio** that lets you fine-tune AI models on your own data, directly on your hardware.
