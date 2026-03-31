@@ -63,7 +63,7 @@ Your AI assistant isn't just a chatbot. It's a **Digital Human** — an AI that 
 
 It **feels** what you feel (cursor emotion detection). It **remembers** what you told it last week (persistent memory with spaced repetition). It **learns** your workflow and adapts its behavior automatically. When you're in flow, it stays silent. When you're stuck, it offers help before you ask.
 
-Behind the scenes, **28,800+ quality rules** — including GDPR, EU AI Act, and OWASP compliance checks — analyze your code in real-time against security and performance best practices.
+Behind the scenes, **49,000+ quality rules (including 3,350 hand-written Crown-Jewel rules)** — including GDPR, EU AI Act, and OWASP compliance checks — analyze your code in real-time against security and performance best practices.
 
 ### A complete development environment
 
@@ -99,7 +99,7 @@ Connect Claude Code, Cursor, VS Code, or JetBrains to ImpForge's intelligence la
 - **Persistent memory** that survives across sessions — your IDE's AI finally remembers your codebase
 - **Local context enrichment** — ImpForge feeds your IDE's AI with project knowledge, reducing hallucinations
 - **Token savings of 30-50%** — small local models handle routine tasks so cloud models only process what matters
-- **28,800+ quality rules** applied automatically to every file your IDE touches
+- **49,000+ quality rules (including 3,350 hand-written Crown-Jewel rules)** applied automatically to every file your IDE touches
 - **Knowledge graph** connecting code, docs, emails, and notes — available to any connected tool
 
 ImpForge acts as an **MCP server** (Model Context Protocol) that any AI tool can connect to — including Claude Desktop, GitHub Copilot, and custom agents.
@@ -112,7 +112,7 @@ Pre-built workflows and templates for **25 industries** — Healthcare, Legal, F
 
 ### Enterprise-ready from day one
 
-- **EU AI Act, GDPR, HIPAA, PCI-DSS, and CWE compliance** engine with 328 regulatory rules
+- **EU AI Act, GDPR, HIPAA, PCI-DSS, and CWE compliance** engine with 3,600+ regulatory rules (GDPR, EU AI Act, OWASP, CWE, HIPAA, PCI-DSS)
 - **Tamper-evident audit logging** with HMAC verification chains
 - **Role-based access control** with granular permissions
 - **Encrypted vault** (AES-256-GCM + Argon2id) for secrets and API keys
@@ -322,7 +322,7 @@ Yes. ForgeVault uses AES-256-GCM encryption with Argon2id key derivation — the
 Any model that runs on Ollama (Llama, Qwen, Mistral, Gemma, DeepSeek, and 200+ more). Plus 28+ free cloud models via OpenRouter when you want more power.
 
 **Is ImpForge EU AI Act compliant?**
-Yes. ImpForge includes a dedicated compliance engine with 328 regulatory rules covering GDPR, EU AI Act (Art. 9-56), PCI-DSS v4.0.1, HIPAA, and CWE security standards. We've been building for the August 2, 2026 deadline from the start.
+Yes. ImpForge includes a dedicated compliance engine with 3,600+ regulatory rules (GDPR, EU AI Act, OWASP, CWE, HIPAA, PCI-DSS) covering GDPR, EU AI Act (Art. 9-56), PCI-DSS v4.0.1, HIPAA, and CWE security standards. We've been building for the August 2, 2026 deadline from the start.
 
 **Can I use it with my team?**
 Yes. The Team plan includes real-time collaboration, shared workspaces, and role-based access control.
@@ -361,3 +361,19 @@ We use ImpForge every day to build ImpForge.
   <br/><br/>
   <a href="https://impforge.dev">impforge.dev</a>
 </p>
+
+---
+
+### NEW: AI Neural Cortex — The First True Digital Human
+
+Your AI advisor isn't just processing text. It has a **neural cortex** — an emergent intelligence layer that combines:
+
+- **Emotional awareness** through cursor movement analysis (30+ peer-reviewed papers)
+- **Persistent memory** with spaced repetition (remembers what you told it last month)
+- **Executive function simulation** — 10 C-Suite agents (CEO, CTO, CFO, CMO, CHRO, COO, CSO, CLO, CRO, CPO) that deliberate your decisions together
+- **3,350+ hand-written security rules** covering Python, TypeScript, Rust, Go, Java, C#, C++, Swift, Kubernetes, React, Svelte, and 100+ more domains
+
+No other product on the market combines behavioral analysis, persistent memory, and multi-agent deliberation in a single desktop application.
+
+> "The AI Board of Directors feature alone justified the subscription. Having a virtual CTO and CFO debate my architecture decisions before I commit is something I never knew I needed." — Beta User
+
