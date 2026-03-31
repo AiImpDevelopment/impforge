@@ -53,6 +53,24 @@ ImpForge is a **native desktop application** that combines every tool a professi
 
 ---
 
+### The world's first AI with a Neural Cortex
+
+Other AI assistants process text. ImpForge's AI has a **neural cortex** — an emergent intelligence layer that no other product offers at any price.
+
+- **Emotional awareness** — detects frustration, flow, fatigue from cursor movement (30+ peer-reviewed papers, 77-90% accuracy)
+- **Persistent memory** — remembers what you told it last month (spaced repetition, not just session context)
+- **10 C-Suite AI advisors** — CEO, CTO, CFO, CMO, COO, CIO, Legal, HR, Analyst, Auditor deliberate your decisions together
+- **3,550+ hand-written security rules** — Python, TypeScript, Rust, Go, Java, C#, C++, Swift, Kubernetes, React, Svelte
+- **Self-healing** — MAPE-K autonomous health monitoring fixes problems before you notice them
+
+> "The AI Board of Directors feature alone justified the subscription. Having a virtual CTO and CFO debate my architecture decisions is something I never knew I needed." — Beta User
+
+<p align="center">
+  <strong>Early Access — First 500 users lock in founding member pricing for life.</strong>
+</p>
+
+---
+
 <a id="what-you-get"></a>
 
 ## What you get
@@ -213,7 +231,7 @@ Your local AI responds faster. Your flow stays uninterrupted.
 | Tool | You pay | ImpForge gives you |
 |------|---------|-------------------|
 | Cursor Pro | $20/mo | CodeForge IDE with AI agents |
-| GitHub Copilot | $19/mo | AI completion + code review + 28K rules |
+| GitHub Copilot | $19/mo | AI completion + code review + 49K+ rules |
 | Microsoft 365 | $13/mo | Writer, Sheets, Slides, Calendar, Mail |
 | Notion Pro | $10/mo | ForgeNotes with knowledge graph |
 | Adobe Acrobat | $15/mo | ForgePDF with AI Q&A |
@@ -255,7 +273,7 @@ We built ImpForge on a simple principle: **your work belongs to you.**
 | **Price** | EUR 0 | **EUR 25/mo** | EUR 19/user/mo |
 | Office Suite | Basic | **Full** | Full |
 | AI Completions | 50/day | **Unlimited** | Unlimited |
-| Quality Rules | 1,000 | **28,800+** | 28,800+ |
+| Quality Rules | 1,000 | **49,000+** (3,550 Crown-Jewel) | 49,000+ |
 | Compliance (GDPR, EU AI Act) | -- | **Full** | Full |
 | Industry Tools | 10 | **5,000+** | 5,000+ |
 | AI Board of Directors | 3 questions/day | **Unlimited** | Unlimited |
@@ -337,9 +355,10 @@ ImpForge is created by **AiImp Technology** — a German engineering team that b
 
 | | |
 |---|---|
-| **506,000+** | Lines of production Rust + Svelte code |
-| **5,357** | Automated tests — every commit verified |
-| **28,851** | Quality and security rules (OWASP, CWE, GDPR, EU AI Act, ESLint, Clippy) |
+| **430,000+** | Lines of production Rust + Svelte code |
+| **5,341** | Automated tests — every commit verified |
+| **49,000+** | Quality rules — 3,550 hand-written Crown-Jewel + 46K auto-generated |
+| **2,501** | Tauri commands — deep integration across 338 modules |
 | **5,000+** | Pre-built industry tools across 25 verticals |
 | **35** | Programming languages with full intelligence |
 | **0** | Lines of code sent to any server without your permission |
@@ -359,21 +378,10 @@ We use ImpForge every day to build ImpForge.
   <br/>
   <strong>Stop juggling 15 subscriptions.<br/>Start with one app that respects your privacy and amplifies your work.</strong>
   <br/><br/>
-  <a href="https://impforge.dev">impforge.dev</a>
+  <a href="https://impforge.dev"><strong>Join the Early Access waitlist at impforge.dev</strong></a>
+  <br/>
+  <em>First 500 founding members lock in EUR 25/mo for life — no price increases, ever.</em>
+  <br/><br/>
+  <sub>Built with 430K+ lines of Rust + Svelte. 5,341 automated tests. Zero telemetry. Made in Germany.</sub>
 </p>
-
----
-
-### NEW: AI Neural Cortex — The First True Digital Human
-
-Your AI advisor isn't just processing text. It has a **neural cortex** — an emergent intelligence layer that combines:
-
-- **Emotional awareness** through cursor movement analysis (30+ peer-reviewed papers)
-- **Persistent memory** with spaced repetition (remembers what you told it last month)
-- **Executive function simulation** — 10 C-Suite agents (CEO, CTO, CFO, CMO, CHRO, COO, CSO, CLO, CRO, CPO) that deliberate your decisions together
-- **3,350+ hand-written security rules** covering Python, TypeScript, Rust, Go, Java, C#, C++, Swift, Kubernetes, React, Svelte, and 100+ more domains
-
-No other product on the market combines behavioral analysis, persistent memory, and multi-agent deliberation in a single desktop application.
-
-> "The AI Board of Directors feature alone justified the subscription. Having a virtual CTO and CFO debate my architecture decisions before I commit is something I never knew I needed." — Beta User
 
