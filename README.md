@@ -52,6 +52,16 @@ It shows you what your AI is thinking. It shows you your goals, deadlines, and p
 
 No other tool works like this. Most AI assistants are a sidebar. HyperChat is a *command center*.
 
+### AI-Readable Design System — The world's first UI that evolves itself.
+
+ImpForge has a built-in design intelligence system that no other AI tool has:
+
+- **Universal UI Scanner** — reads any UI component and checks it against 400+ design tokens for WCAG accessibility, font correctness, spacing consistency, and animation quality. Generates a score and concrete improvement suggestions.
+- **AI-Readable Design Tokens** — every color, font, spacing value, animation, and effect is defined in a machine-readable format that the AI understands natively. No guessing. No generic output.
+- **Google A2UI v0.9 Support** — ai_imp can describe entire UIs in a flat, declarative JSON format. 20+ trusted component types in a security-sandboxed catalog. The AI generates UI, your app renders it — safely.
+- **W3C Design Tokens Standard** — export tokens to the international standard (W3C DTCG, Oct 2025). Compatible with Figma, Tokens Studio, Style Dictionary, and any design tool.
+- **Works with every AI tool** — Claude Code, Cursor, Windsurf, JetBrains AI, Copilot — they all read the same design rules automatically.
+
 ---
 
 <a id="the-ai"></a>
@@ -168,7 +178,7 @@ We didn't add privacy features after building the product. We built the product 
 | **Local AI (runs on your PC)** | Yes | Yes | Yes |
 | **Encrypted databases** | Yes | Yes | Yes |
 | **AI personalities** | 50 | 472 | 472 |
-| **Quality rules** | 50K | 157K+ | 157K+ |
+| **Quality rules** | 50K | 158K+ | 158K+ |
 | **Board of Directors** | — | Yes | Yes |
 | **Digital memory** | Basic | Full | Full |
 | **Enterprise features** | — | Yes | Yes |
@@ -225,6 +235,24 @@ We believe AI should be:
 Not like Grok. Like DeepSeek — open, democratic, accessible.
 
 > *"The best AI is the one that respects you."*
+
+### By the numbers
+
+| | |
+|--|--|
+| Lines of code | 647,000+ |
+| Automated tests | 6,111+ |
+| AI modules | 400+ |
+| AI personalities | 472 |
+| Quality rules | 158,000+ |
+| Tauri commands | 2,726 |
+| A2UI components | 20+ |
+| Design tokens | 400+ |
+| Research papers | 406+ |
+| Neural synapses | 155 |
+| Errors | 0 |
+| Warnings | 0 |
+| Data collected | 0 |
 
 ---
 
