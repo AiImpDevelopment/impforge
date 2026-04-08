@@ -7,220 +7,205 @@
 <h3 align="center">Your Desktop Becomes an AI Command Center</h3>
 
 <p align="center">
-  <strong>A floating AI companion that transforms any desktop into a<br/>
-  sci-fi workstation with 400+ modules. No cloud. No subscription lock-in.</strong>
+  <strong>Imagine a personal AI that lives on your desktop, knows your work,<br/>
+  remembers everything, and never sends your data anywhere.</strong>
 </p>
 
 <p align="center">
-  <a href="#what-is-impforge">What Is It</a> &bull;
-  <a href="#how-it-works">How It Works</a> &bull;
-  <a href="#what-you-get">What You Get</a> &bull;
-  <a href="#privacy-vault">Privacy</a> &bull;
+  <a href="#what-makes-it-different">What Makes It Different</a> &bull;
+  <a href="#the-ai-that-actually-gets-you">The AI</a> &bull;
+  <a href="#your-desktop-your-rules">Your Desktop</a> &bull;
+  <a href="#privacy-that-means-something">Privacy</a> &bull;
   <a href="#pricing">Pricing</a> &bull;
   <a href="#get-started">Get Started</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LoC-645K+-blue" alt="Lines of Code" />
-  <img src="https://img.shields.io/badge/Tests-6,075+-green" alt="Tests" />
-  <img src="https://img.shields.io/badge/Modules-400+-purple" alt="Modules" />
   <img src="https://img.shields.io/badge/AI-100%25%20Offline-brightgreen" alt="Offline AI" />
   <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Win%20%7C%20Mac-blue" alt="Platform" />
+  <img src="https://img.shields.io/badge/Modules-400+-purple" alt="Modules" />
+  <img src="https://img.shields.io/badge/Free-Forever-green" alt="Free" />
   <img src="https://img.shields.io/badge/Made%20in-Germany%20%F0%9F%87%A9%F0%9F%87%AA-black" alt="Made in Germany" />
 </p>
 
 ---
 
-<a id="what-is-impforge"></a>
+<a id="what-makes-it-different"></a>
 
-## ImpForge is not an app. It's a desktop revolution.
+## Forget everything you know about AI tools.
 
-Most software gives you a rectangular window. ImpForge gives you an **AI companion** that floats at your screen edge and deploys 400+ tools as widgets, panels, and floating windows — anywhere on your desktop.
+Every AI tool today works the same: you type something, it spits out an answer, and it forgets you existed five minutes later.
 
-Think of it as: **What if your entire desktop was as smart as an AI?**
+**ImpForge is different.**
 
-- Your AI assistant (ai_imp) lives in a small floating chat panel
-- You tell it what you need — it opens the right tools as floating windows
-- You arrange modules into your personal Command Center
-- Each workspace remembers everything: layout, AI context, open tools, theme
-- Switch between "Coding", "Trading", "Office" workspaces with one click
+It's not a chat window. It's not an IDE plugin. It's a tiny, smart AI companion that floats on your desktop and actually *understands* what you're working on.
 
-> This is not another IDE. Not another chat window. It's the operating system layer that makes everything else better.
+It remembers your last conversation from three weeks ago. It knows you prefer TypeScript over Python. It noticed you've been working on the same bug for two hours and quietly suggests a fix. It fills out your tax forms because it already knows your address.
+
+And it does all of this **on your machine**. No cloud. No API keys. No subscriptions you forget to cancel.
 
 ---
 
-<a id="how-it-works"></a>
+<a id="the-ai-that-actually-gets-you"></a>
 
-## How it works
+## An AI that actually gets you
 
-### 1. The ai_imp (Your AI Companion)
+### It remembers. Actually remembers.
 
-A small, intelligent panel that docks to your screen edge. Always there. Never in the way.
+Not "we saved your chat history." Real memory. ImpForge builds a picture of who you are over time — your skills, your preferences, your projects, your goals. Every conversation makes it smarter about *you specifically*.
 
-- **472 AI personas** — switches expertise based on what you're doing
-- **Neural Cortex** with 155 synapses connecting ALL modules
-- **Persistent memory** — remembers conversations from last month
-- **Board of Directors** — 10 AI executives debate complex decisions
-- **Digital Clone** — learns your preferences, auto-fills forms, predicts needs
+Ask it something on Monday. Reference it on Friday. It connects the dots.
 
-### 2. The Modules (400+ Building Blocks)
+### It thinks before it speaks.
 
-Every module can render as a floating window, desktop widget, or docked panel:
+Most AIs just throw words at you. ImpForge's AI has something we call a neural cortex — think of it as an actual thought process. When you ask a hard question, it doesn't just guess. It checks your code, looks at your past decisions, considers what worked before, and *then* answers.
 
-| Category | Modules | Examples |
-|----------|---------|---------|
-| **AI Chat** | 5 | HyperChat, Convergence, Focus Mode, Voice Input |
-| **Code** | 12 | CodeForge IDE, Git, Debug, Terminal, LSP, Test Runner |
-| **Office** | 8 | Writer, Sheets, PDF, Slides, Mail, Calendar, Notes |
-| **Business** | 10 | CRM, OKR, Trading, Freelancer, Analytics, Pricing |
-| **Knowledge** | 8 | ForgeMemory, Zettelkasten, Knowledge Graph, Wikipedia |
-| **Automation** | 6 | ForgeFlow, Briefing, Process Miner, Webhook Engine |
-| **Industry** | 25 | Healthcare, Finance, Legal, Aerospace, Automotive... |
-| **System** | 15 | Docker, Browser, Screen Capture, System Monitor |
+You can literally watch it think. There's a panel that shows which parts of its brain are active while it works on your question.
 
-### 3. The Workspaces (Your Sci-Fi Command Center)
+### It has 472 personalities. And picks the right one.
 
-Each workspace is a complete environment:
+Working on a React component? It becomes a frontend expert. Writing a business proposal? It switches to a business consultant. Doing your taxes? It becomes a German tax advisor who knows the current deadlines.
 
-- **Developer Hub** — IDE + Terminal + Git + AI Chat + Debug
-- **Trading Desk** — Charts + News + Analytics + Portfolio
-- **Office Suite** — Writer + Sheets + Mail + Calendar
-- **Creative Studio** — Canvas + Browser + Notes + Media
+You don't configure this. It just happens.
 
-Or build your own. Drag modules anywhere. Pin widgets to your desktop. Create the workstation that Hollywood imagines.
+### It has a board of directors.
+
+For the big decisions, your AI doesn't just wing it. It assembles a virtual boardroom: a CTO, a CFO, a legal advisor, a security expert — 10 specialists who debate your question from different angles. The CTO wants to move fast, the security expert wants to slow down, the CFO watches the budget. They argue. Then they give you a recommendation.
+
+It's like having a team of advisors who never sleep and never charge by the hour.
+
+### It gets better every day.
+
+Not through updates. Through *using it*. The more you work with ImpForge, the more it learns about your patterns. After a week, it anticipates what you need. After a month, it feels like it reads your mind.
+
+And all that learning stays on your machine. Delete the app, and it's gone. No traces anywhere.
 
 ---
 
-<a id="what-you-get"></a>
+<a id="your-desktop-your-rules"></a>
 
-## The numbers
+## Your desktop, your rules
 
-| What | How Much |
-|------|----------|
-| Lines of Code | **645,000+** (355K Rust, 118K Svelte/TS, 167K SQL) |
-| Quality Rules | **157,790** (10K hand-written Crown-Jewel) |
-| AI Personas | **472** specialists across 25 industries |
-| Tests | **6,075+** (all passing, zero warnings) |
-| Tauri Commands | **2,716** backend API endpoints |
-| Research Papers | **406+** integrated (2024-2026) |
-| Neural Synapses | **155** connections between modules |
-| NLU Intents | **50,000** (German + English) |
-| Industry Tools | **12,420** SaaS integrations |
+### Not another rectangle.
+
+ImpForge doesn't open like a normal program. There's no big window competing for screen space.
+
+Instead, a small AI chat panel appears at the edge of your screen. That's it. Your desktop stays clean.
+
+When you need something — type it. "Open my IDE." "Show me Docker containers." "Write a report." The right tool appears as its own floating window. You arrange them however you want. Pin them. Stack them. Make them transparent. Build your dream workspace.
+
+### 400+ tools, one command away.
+
+AI Chat. Code Editor. Document Writer. Spreadsheets. Email. Calendar. Notes. PDF Viewer. Docker Manager. GitHub Dashboard. Trading View. Browser. Terminal. CRM. Analytics. And 380 more.
+
+Each one is a building block. Drag it anywhere on your desktop. Resize it. Pin it to an edge. Make it your own.
+
+### Workspaces that remember everything.
+
+Create a "Coding" workspace with your IDE, terminal, and AI chat. Create a "Trading" workspace with charts, news, and analytics. Switch between them instantly. Each workspace remembers exactly where every window was, what the AI was talking about, and what mood it was in.
+
+It's like having multiple desktops, but smarter. Way smarter.
 
 ---
 
-<a id="privacy-vault"></a>
+<a id="privacy-that-means-something"></a>
 
-## Privacy Vault — Your data is YOURS
+## Privacy that actually means something
 
-ImpForge contains the most advanced local-first privacy system of any desktop AI:
+Let's be honest: most companies say "we care about privacy" and then send your data to seventeen servers.
 
-- **SQLCipher AES-256** — ALL databases encrypted at rest
-- **Argon2id** key derivation (19MB memory-hard, GPU-resistant)
-- **Separate vault password** — even the AI cannot enter it
-- **Panic Wipe** — auto-delete sensitive data after failed break-in attempts
-- **Canary System** — detects if anyone tampers with your data files
-- **OS Keychain** — integrates with macOS Keychain, Windows DPAPI, Linux libsecret
-- **Post-Quantum ready** — ML-KEM (CRYSTALS-Kyber) preparation
-- **Zero Knowledge** — we never see your data. Period.
-- **GDPR compliant** — one-click data deletion (Article 17)
+ImpForge is different because it was *built* different:
 
-> Cursor and Claude Code can read files on your disk. With ImpForge's Privacy Vault, they see only encrypted noise.
+**Your data never leaves your computer.** Not "we promise not to look." Physically cannot leave. The AI runs locally on your hardware. There's no server to send data to.
+
+**Military-grade encryption.** Every piece of personal data is locked behind AES-256 encryption with a password that even we can't crack. Even if someone steals your laptop, they get nothing.
+
+**Even other AI tools can't see it.** Using Cursor or Copilot alongside ImpForge? They can read files on your disk — but ImpForge's databases look like random noise to them. Encrypted at rest. Always.
+
+**A separate vault password.** Your AI assistant cannot enter this password. Only you can. This protects you even from the AI itself.
+
+**Panic button.** If someone tries to break into your vault and fails too many times, ImpForge can automatically delete your most sensitive data. You configure what gets wiped and when. It's your call.
+
+**Intruder detection.** ImpForge places a hidden tripwire file next to your data. If anyone — any program, any person — touches it, you get an alert. Think of it as a silent alarm for your digital life.
+
+> We believe privacy is a human right, not a premium feature. The free version includes encryption too.
 
 ---
 
 <a id="pricing"></a>
 
-## Pricing
+## Simple pricing. No tricks.
 
-| | Free | Pro (EUR 25/mo) | Lifetime (EUR 750) |
-|--|------|----------------|---------------------|
-| **Modules** | All 400+ | All 400+ | All 400+ |
-| **ai_imp Assistant** | Yes | Yes | Yes |
-| **Local AI (Ollama)** | Yes | Yes | Yes |
-| **Quality Rules** | 50K | 157K+ | 157K+ |
-| **AI Personas** | 50 | 472 | 472 |
-| **Privacy Vault** | Basic | Full (Argon2id + Keychain) | Full |
-| **Board of Directors** | No | Yes | Yes |
-| **Digital Clone** | No | Yes | Yes |
-| **Enterprise Features** | No | Yes | Yes |
+| | Free | Pro (EUR 25/mo) | Founder's Edition (EUR 750) |
+|--|------|----------------|---------------------------|
+| **All 400+ modules** | Yes | Yes | Yes |
+| **AI assistant (ai_imp)** | Yes | Yes | Yes |
+| **Local AI (runs on your PC)** | Yes | Yes | Yes |
+| **Encrypted databases** | Yes | Yes | Yes |
+| **Quality rules** | 50K | 157K+ | 157K+ |
+| **AI personalities** | 50 | 472 | 472 |
+| **Board of Directors** | — | Yes | Yes |
+| **Digital memory (learns you)** | Basic | Full | Full |
+| **Enterprise features** | — | Yes | Yes |
 | **Updates** | Community | Priority | 3 years included |
 
-**Free forever.** No credit card. No trial period. The free version is a genuinely useful AI workstation — not a crippled demo.
+**The free version is real software.** It's not a 14-day trial. It's not a feature demo. It's a fully functional AI workstation with 400+ modules, local AI, and encrypted storage. Use it forever. No credit card.
 
-The Pro version adds enterprise intelligence: the Board of Directors, Digital Clone, full Privacy Vault, and all 472 AI personas.
+**Pro** adds the deep intelligence: full memory, all 472 personalities, the Board of Directors, and enterprise tools. For professionals who want the unfair advantage.
 
-**Lifetime License**: First 500 licenses only (Founder's Edition). After that, subscription only.
+**Founder's Edition**: One-time EUR 750 for lifetime access. Limited to the first 500 licenses. The app keeps working forever; updates included for 3 years.
 
 ---
 
 <a id="get-started"></a>
 
-## Get Started
+## Get started in 2 minutes
 
-### Requirements
-- **Minimum**: 8 GB RAM, 4 CPU cores, 8 GB disk
-- **Recommended**: 16 GB RAM, GPU with 8+ GB VRAM
-- **OS**: Linux (Ubuntu/PopOS 22.04+), Windows 11, macOS 10.15+
+### What you need
+- A computer with 8 GB RAM (16 GB recommended)
+- Linux, Windows 11, or macOS
+- That's it. No API keys. No accounts. No cloud setup.
 
 ### Install
 
 ```bash
-# Linux (AppImage)
+# Linux
 wget https://github.com/AiImpDevelopment/impforge/releases/latest/download/ImpForge.AppImage
 chmod +x ImpForge.AppImage
 ./ImpForge.AppImage
 
-# Windows
-# Download ImpForge-setup.exe from Releases
-
-# macOS
-# Download ImpForge.dmg from Releases
+# Windows — download ImpForge-setup.exe from Releases
+# macOS — download ImpForge.dmg from Releases
 ```
 
-### Build from Source
+### What happens next
 
-```bash
-git clone https://github.com/AiImpDevelopment/impforge.git
-cd impforge
-pnpm install
-pnpm tauri build
-```
-
-See [COMPILING.md](COMPILING.md) for detailed build instructions.
+1. A small AI panel appears at the edge of your screen
+2. Your AI introduces itself: "Hi! I'm your ai_imp."
+3. It scans your hardware and recommends the best AI model
+4. You start talking. It starts learning.
+5. Welcome to your new desktop.
 
 ---
 
-## Tech Stack
+## Built in Germany. For everyone.
 
-| Layer | Technology |
-|-------|-----------|
-| Backend | Rust (Tauri 2.10) |
-| Frontend | Svelte 5 (runes) |
-| Database | SQLCipher (AES-256 encrypted SQLite) |
-| Local AI | Ollama (Qwen3-8B, 5 micro models) |
-| Embeddings | FastEmbed (nomic-embed-text, 384-dim) |
-| Search | Tantivy (BM25 full-text) + HNSW (vector) |
-| Encryption | Argon2id + HKDF-SHA256 + AES-256-GCM |
-| Build | pnpm + Cargo + GitHub Actions (5-platform CI) |
+ImpForge is made by a small team in Germany who believes that AI should help everyone — not just people who can afford EUR 200/month subscriptions.
 
----
+The free version exists because we mean it. Not as a marketing funnel. As a principle.
 
-## Made in Germany
+**Accessible.** Works offline. Works on old hardware. Works without an internet connection.
 
-ImpForge is built by [AiImp Technology](https://github.com/AiImpDevelopment) in Germany.
+**Private.** Your data is yours. We can't see it. We don't want to. We built it so we physically can't.
 
-We believe AI should be:
-- **Accessible** — available to everyone, even without money (free tier)
-- **Private** — your data never leaves your device
-- **Offline** — works without internet
-- **Transparent** — source-available, auditable
-
-Not like Grok. Like DeepSeek — open, democratic, for everyone.
+**Honest.** No dark patterns. No surprise charges. No "your trial has expired" popups. If the free version is enough for you, use it forever. We're happy you're here.
 
 ---
 
 <p align="center">
   <strong>ImpForge — DigiU</strong><br/>
-  Your desktop. Your AI. Your rules.
+  Your desktop. Your AI. Your rules.<br/><br/>
+  <a href="https://github.com/AiImpDevelopment/impforge/releases">Download</a> &bull;
+  <a href="https://github.com/AiImpDevelopment/impforge/issues">Feedback</a> &bull;
+  <a href="COMPILING.md">Build from Source</a>
 </p>
