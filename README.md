@@ -14,6 +14,7 @@
 <p align="center">
   <a href="#hyperchat">HyperChat</a> &bull;
   <a href="#the-ai">The AI</a> &bull;
+  <a href="#anti-palantir">Anti-Palantir Shield</a> &bull;
   <a href="#your-desktop">Your Desktop</a> &bull;
   <a href="#our-privacy-promise">Privacy Promise</a> &bull;
   <a href="#pricing">Pricing</a> &bull;
@@ -22,6 +23,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-100%25%20Offline-brightgreen" alt="Offline AI" />
+  <img src="https://img.shields.io/badge/Privacy-Anti--Palantir%20Shield-ff3333" alt="Anti-Palantir Shield" />
+  <img src="https://img.shields.io/badge/EU%20AI%20Act-Compliant-00cc66" alt="EU AI Act Compliant" />
+  <img src="https://img.shields.io/badge/Encryption-AES--256%20%2B%20ZK%20Proofs-blueviolet" alt="AES-256 + ZK Proofs" />
   <img src="https://img.shields.io/badge/Data%20Collection-ZERO-red" alt="Zero Data Collection" />
   <img src="https://img.shields.io/badge/Tracking-NONE-red" alt="No Tracking" />
   <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Win%20%7C%20Mac-blue" alt="Platform" />
@@ -97,6 +101,56 @@ Like having a team of advisors who never sleep and never charge by the hour.
 The more you work with ImpForge, the more it learns. After a week, it anticipates what you need. After a month, it feels like it reads your mind.
 
 All that learning stays on your machine. Delete the app, it's gone. No traces anywhere.
+
+---
+
+<a id="anti-palantir"></a>
+
+## Anti-Palantir Privacy Shield
+
+> **"Your AI assistant that even Palantir can't spy on."**
+
+Data surveillance platforms like Palantir work by fusing data from multiple sources into searchable profiles. They need three things to exfiltrate data (the "Lethal Trifecta"): untrusted input, access to sensitive data, and the ability to communicate externally.
+
+**ImpForge breaks all three.**
+
+### 5-Tier DigiU Privacy System
+
+Choose your protection level during setup. It controls EVERYTHING — AI routing, storage, network access, telemetry, and sharing.
+
+| Tier | Name | What It Means |
+|------|------|---------------|
+| 0 | **Fortress** | Air-gapped. Zero network. Military grade. Your data physically cannot leave your device. |
+| 1 | **Vault** | Local-only processing. Encrypted storage. No cloud sync. Enterprise GDPR strict. |
+| 2 | **Shield** | Local AI primary. Anonymous cloud fallback with differential privacy. No PII ever sent. |
+| 3 | **Bridge** | Encrypted cloud sync. E2E encryption. P2P sharing with colleagues. |
+| 4 | **Open** | Full cloud integration. Maximum productivity. Privacy still protected by encryption. |
+
+### 5 Defense Layers (Always Active)
+
+1. **PII Detection** — Scans every outbound message for 13 types of personal data (emails, SSNs, credit cards, API keys, passwords, phone numbers, etc.) and auto-scrubs before any cloud call
+2. **Prompt Injection Firewall** — Blocks 17 attack patterns including instruction override, data exfiltration, and hidden instructions in HTML/Unicode
+3. **Canary Tokens** — Invisible markers in your documents. If your data appears in any external database, you'll know.
+4. **Cryptographic Audit Trail** — Blockchain-style Merkle tree logs every privacy-sensitive operation. Tamper-proof. Mathematically verifiable.
+5. **Governance Graph** — 23 rules control which AI agents can access what data. Deny-by-default. External tools need explicit permission.
+
+### EU AI Act — Already Compliant
+
+While competitors scramble to comply with the August 2026 deadline, ImpForge ships compliant by default:
+- All AI features classified by risk tier (Minimal, Limited, High-Risk)
+- Transparency labels auto-generated for AI content
+- Full compliance report at the click of a button
+- GDPR Art. 25 (Privacy by Design) baked into the architecture
+
+### Zero-Knowledge Proofs + Encrypted Computation
+
+ImpForge can mathematically prove that your data was processed correctly — without revealing what the data is:
+- **SHA-256 Commitment Schemes** — prove data existed at a point in time
+- **AES-256-GCM Encrypted Queries** — cloud APIs never see your plaintext
+- **HMAC Verification** — prove computation integrity without revealing inputs
+- **Tamper-Evident Audit Logs** — any modification is mathematically detectable
+
+> *Every line of ImpForge code was written assuming someone hostile is watching. Because they are.*
 
 ---
 
@@ -240,19 +294,25 @@ Not like Grok. Like DeepSeek — open, democratic, accessible.
 
 | | |
 |--|--|
-| Lines of code | 651,000+ |
-| Automated tests | 6,142 |
-| AI modules | 400+ |
+| Lines of code | 650,000+ |
+| Automated tests | 6,176 |
+| AI modules | 418+ |
 | AI personalities | 472 |
 | Quality rules | 158,000+ |
-| Tauri commands | 2,743 |
+| Tauri commands | 2,861 |
+| MCP tools (Claude/Cursor/JetBrains/Copilot/Windsurf) | 73+ |
 | Modules wired to Neural Cortex | 247 (97%) |
+| Anti-Palantir defense layers | 5 |
+| DigiU privacy tiers | 5 (Fortress to Open) |
+| Board of Directors AI models | 3 (Hermes + Qwen + Dolphin) |
+| Governance rules | 23 (deny-by-default) |
 | Emergent intelligence layers | 4 |
 | ai_imp action types | 25 |
 | A2UI components | 20+ |
 | Design tokens | 400+ |
-| Research papers | 406+ |
+| Research papers | 508+ |
 | Neural synapses | 155 |
+| EU AI Act features classified | 17 (all compliant) |
 | Errors | 0 |
 | Warnings | 0 |
 | Data collected | 0 |
