@@ -15,6 +15,7 @@
   <a href="#hyperchat">HyperChat</a> &bull;
   <a href="#the-ai">The AI</a> &bull;
   <a href="#anti-palantir">Anti-Palantir Shield</a> &bull;
+  <a href="#4-model-ai">4-Model AI</a> &bull;
   <a href="#your-desktop">Your Desktop</a> &bull;
   <a href="#our-privacy-promise">Privacy Promise</a> &bull;
   <a href="#pricing">Pricing</a> &bull;
@@ -242,6 +243,25 @@ We didn't add privacy features after building the product. We built the product 
 **Free forever.** No credit card. No trial. The free version is a real AI workstation — not a demo.
 
 **Founder's Edition**: One-time EUR 750. Limited to first 500 licenses. App works forever.
+
+---
+
+<a id="4-model-ai"></a>
+
+## 4 AI Models. 7.7 GB. Runs on any laptop.
+
+Most AI tools need expensive cloud APIs or 32 GB of RAM. ImpForge runs 4 specialized AI models on your machine — even an 8 GB laptop.
+
+| Model | Role | What it does |
+|-------|------|-------------|
+| **Qwen3-8B** | The Brain | Deep reasoning, strategic decisions, code generation. Has a "thinking mode" for hard problems. |
+| **Qwen2.5-Coder 1.5B** | Fast Hands | Code completion in under 100ms. Fill-in-the-middle, syntax checking, refactoring. |
+| **nomic-embed-text** | Memory | Turns your documents into searchable vectors. Powers the knowledge base and semantic search. |
+| **SmolLM2 1.7B** | Classifier | Understands what you want in under 50ms. Routes your request to the right tool. |
+
+**Smart cascade routing**: 60-70% of requests are handled by the tiny Classifier (instant). Only complex questions reach the Brain. This saves 3-5x compute.
+
+**Board of Directors**: For big decisions, the Brain simulates 10 executives (CEO, CTO, CFO, CMO, COO, CIO, CLO, CHRO, Analyst, Auditor) — each with a different perspective and temperature. They vote. You get a recommendation with dissenting opinions noted.
 
 ---
 
