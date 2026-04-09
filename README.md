@@ -240,12 +240,15 @@ Not like Grok. Like DeepSeek — open, democratic, accessible.
 
 | | |
 |--|--|
-| Lines of code | 647,000+ |
-| Automated tests | 6,111+ |
+| Lines of code | 651,000+ |
+| Automated tests | 6,142 |
 | AI modules | 400+ |
 | AI personalities | 472 |
 | Quality rules | 158,000+ |
-| Tauri commands | 2,726 |
+| Tauri commands | 2,743 |
+| Modules wired to Neural Cortex | 247 (97%) |
+| Emergent intelligence layers | 4 |
+| ai_imp action types | 25 |
 | A2UI components | 20+ |
 | Design tokens | 400+ |
 | Research papers | 406+ |
