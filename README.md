@@ -314,27 +314,33 @@ Not like Grok. Like DeepSeek — open, democratic, accessible.
 
 | | |
 |--|--|
-| Lines of code | 650,000+ |
-| Automated tests | 6,176 |
-| AI modules | 418+ |
+| Lines of code | 670,000+ |
+| Automated tests | 6,135+ |
+| Rust modules | 424 files, 280 modules |
 | AI personalities | 472 |
-| Quality rules | 158,000+ |
-| Tauri commands | 2,861 |
-| MCP tools (Claude/Cursor/JetBrains/Copilot/Windsurf) | 73+ |
-| Modules wired to Neural Cortex | 247 (97%) |
+| Quality rules | 158,000+ (81 AI-generated at benchmark 1.00) |
+| Tauri commands | 2,892 |
+| MCP tools (Claude/Cursor/JetBrains/Copilot/Windsurf) | 126 in 8 namespace servers |
+| MCP token savings vs monolithic | 90% (lazy schema loading) |
+| 4-Model AI Pipeline benchmark | 1.00/1.00 (all 6 dimensions perfect) |
+| Self-learning routing | Adapts from quality feedback automatically |
+| Modules wired to Neural Cortex | 280 (100%) |
 | Anti-Palantir defense layers | 5 |
 | DigiU privacy tiers | 5 (Fortress to Open) |
-| Board of Directors AI models | 3 (Hermes + Qwen + Dolphin) |
+| Neural synapses | 175 (40 in Synapse Fabric v2) |
+| Specialized AI agents | 15 (Privacy, Compliance, Security, Governance, Evolution, ...) |
+| Resource power modes | 5 (DeepSleep <80MB to Genesis 5GB VRAM) |
+| Board of Directors | 10 executives via Qwen3-8B temperature variation |
 | Governance rules | 23 (deny-by-default) |
-| Emergent intelligence layers | 4 |
+| Emergent intelligence layers | 4 (Pattern, Anomaly, CrossModule, Summary) |
 | ai_imp action types | 25 |
 | A2UI components | 20+ |
 | Design tokens | 400+ |
 | Research papers | 508+ |
-| Neural synapses | 155 |
 | EU AI Act features classified | 17 (all compliant) |
 | Errors | 0 |
 | Warnings | 0 |
+| Production .unwrap() | 0 (Crown-Jewel grade) |
 | Data collected | 0 |
 
 ---
