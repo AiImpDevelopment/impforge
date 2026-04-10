@@ -261,7 +261,13 @@ Most AI tools need expensive cloud APIs or 32 GB of RAM. ImpForge runs 4 special
 
 **Smart cascade routing**: 60-70% of requests are handled by the tiny Classifier (instant). Only complex questions reach the Brain. This saves 3-5x compute.
 
+**Self-learning routing**: The system tracks which model performs best for each type of task. After just 5 interactions, it automatically routes to the optimal model. It literally gets smarter the more you use it.
+
+**11-step quality pipeline**: Every single AI response passes through privacy scanning, governance checks, quality validation, self-correction, PII scrubbing, and cryptographic sealing — automatically, invisibly, every time.
+
 **Board of Directors**: For big decisions, the Brain simulates 10 executives (CEO, CTO, CFO, CMO, COO, CIO, CLO, CHRO, Analyst, Auditor) — each with a different perspective and temperature. They vote. You get a recommendation with dissenting opinions noted.
+
+**Works with every AI tool**: 126 MCP tools organized in 8 namespace servers. Claude Code, Cursor, JetBrains, Copilot, Windsurf — they all talk to ai_imp like a brother. Token-efficient: loads only the tools you need, not all 126 at once.
 
 ---
 
