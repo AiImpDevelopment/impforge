@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>A floating AI companion that transforms any desktop into a<br/>
-  personalized workstation with 400+ modules. No cloud. No tracking. Ever.</strong>
+  personalized workstation with 300+ modules. No cloud. No tracking. Ever.</strong>
 </p>
 
 <p align="center">
@@ -267,7 +267,9 @@ Most AI tools need expensive cloud APIs or 32 GB of RAM. ImpForge runs 4 special
 
 **Board of Directors**: For big decisions, the Brain simulates 10 executives (CEO, CTO, CFO, CMO, COO, CIO, CLO, CHRO, Analyst, Auditor) — each with a different perspective and temperature. They vote. You get a recommendation with dissenting opinions noted.
 
-**Works with every AI tool**: 126 MCP tools organized in 8 namespace servers. Claude Code, Cursor, JetBrains, Copilot, Windsurf — they all talk to ai_imp like a brother. Token-efficient: loads only the tools you need, not all 126 at once.
+**Works with every AI tool**: 157 MCP tools organized in 9 namespace servers. Claude Code, Cursor, JetBrains, Copilot, Windsurf — they all talk to ai_imp like a brother. Token-efficient: loads only the tools you need, not all 157 at once.
+
+**Selective Alignment**: Your AI is helpful *and* safe. We don't ship a lobotomized model that refuses to write a port scanner. qwen3-imp helps with security research, creative writing, medical info, legal analysis — everything professional. But it firmly refuses violence, terrorism, fraud, and exploitation. No wholesale censorship. No wholesale uncensoring. Enterprise-grade balance.
 
 ---
 
@@ -320,21 +322,28 @@ Not like Grok. Like DeepSeek — open, democratic, accessible.
 
 | | |
 |--|--|
-| Lines of code | 670,000+ |
-| Automated tests | 6,135+ |
-| Rust modules | 424 files, 280 modules |
+| Lines of code | **683,000+** |
+| Automated tests | **6,284** |
+| Rust modules | **482 files, 302 modules** |
+| Sub-module files | **178** across 21 directories |
 | AI personalities | 472 |
 | Quality rules | 158,000+ (81 AI-generated at benchmark 1.00) |
-| Tauri commands | 2,892 |
-| MCP tools (Claude/Cursor/JetBrains/Copilot/Windsurf) | 126 in 8 namespace servers |
+| Tauri commands | **2,923** |
+| MCP tools (Claude/Cursor/JetBrains/Copilot/Windsurf) | **157 in 9 namespace servers** |
 | MCP token savings vs monolithic | 90% (lazy schema loading) |
 | 4-Model AI Pipeline benchmark | 1.00/1.00 (all 6 dimensions perfect) |
+| **qwen3-imp:8b** | **Selectively aligned brain — PRODUCTION READY** |
 | Self-learning routing | Adapts from quality feedback automatically |
+| **Memory-informed routing** | Module memory overrides classifier when quality > 0.85 |
+| **Neural Trias** | Module Memory + Module IPC + Module Health (self-healing) |
+| **Pipeline Modes** | **7** (Streaming, Thinking, LongForm, Secure, Diverse, Code, Standard) |
+| **Widget Isolation** | 10 built-in widgets, <5MB idle, ~1MB suspended |
 | Autonomous micro-program modules | 396/422 (93.8%) — each self-sufficient |
 | Module capabilities (each) | Privacy + Governance + Context + Stigmergy + Evolution |
 | Modules wired to Neural Cortex | 396 (100% of active modules) |
 | Anti-Palantir defense layers | 5 |
 | DigiU privacy tiers | 5 (Fortress to Open) |
+| **Selective Alignment Engine** | 8 safety categories REFUSED, 10 alignment categories HELPED |
 | Neural synapses | 175 (40 in Synapse Fabric v2) |
 | Specialized AI agents | 15 (Privacy, Compliance, Security, Governance, Evolution, ...) |
 | Resource power modes | 5 (DeepSleep <80MB to Genesis 5GB VRAM) |
@@ -344,7 +353,7 @@ Not like Grok. Like DeepSeek — open, democratic, accessible.
 | ai_imp action types | 25 |
 | A2UI components | 20+ |
 | Design tokens | 400+ |
-| Research papers | 508+ |
+| Research papers | **608+** |
 | EU AI Act features classified | 17 (all compliant) |
 | Errors | 0 |
 | Warnings | 0 |
