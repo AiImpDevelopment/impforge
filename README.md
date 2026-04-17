@@ -7,8 +7,8 @@
 <h3 align="center">Your Desktop Becomes an AI Command Center</h3>
 
 <p align="center">
-  <strong>A floating AI companion that transforms any desktop into a<br/>
-  personalized workstation with 300+ modules. No cloud. No tracking. Ever.</strong>
+  <strong>A floating AI companion that turns any laptop into a sovereign workstation<br/>
+  with 400+ modules. Runs 100% offline. Sees no data. Tracks nothing. Ever.</strong>
 </p>
 
 <p align="center">
@@ -36,6 +36,16 @@
 
 ---
 
+## The problem with every "AI workstation" you've tried
+
+Your data leaves your machine.  The AI is lobotomised.  The interface is a sidebar stuck to the edge of your IDE.  You pay a cloud bill that grows every month.  The "assistant" stalls on sensitive topics and forgets what you told it last week.  Your tools are scattered across 14 browser tabs, 3 apps, and a Discord server.
+
+You wanted a command center.  You got a subscription to someone else's surveillance system.
+
+**ImpForge is the alternative.**
+
+---
+
 <a id="hyperchat"></a>
 
 ## HyperChat — The Heart of ImpForge
@@ -53,7 +63,7 @@ Think of HyperChat as a portal. You tell it what you need, and the right tools a
 
 **HyperChat is how you command your entire desktop.**
 
-It shows you what your AI is thinking. It shows you your goals, deadlines, and predictions. It lets you switch between 5 levels of AI autonomy — from "only answer when asked" to "handle everything yourself."
+It shows you what your AI is thinking.  It shows you your goals, deadlines, and predictions.  It streams every LLM token, every tool call, every state change through a live event protocol so you *see* the AI working — no black box, no "loading spinner theatre".  It lets you switch between 5 levels of AI autonomy — from "only answer when asked" to "handle everything yourself" — each level guarded by a cryptographic audit chain that logs every decision.
 
 No other tool works like this. Most AI assistants are a sidebar. HyperChat is a *command center*.
 
@@ -93,9 +103,13 @@ You don't configure this. It just happens.
 
 ### It has a board of directors.
 
-For the big decisions, your AI assembles a virtual boardroom: a CTO, a CFO, a legal advisor, a security expert — 10 specialists who debate your question from different angles. They argue. Then they give you a recommendation.
+For the big decisions, your AI assembles a virtual boardroom: a CTO, a CFO, a legal advisor, a security expert — 10 specialists who debate your question from different angles.  They argue.  They vote (weighted by a Hebbian trust score that learns which advisor has been right in *your* context).  Then they give you a recommendation with dissenting opinions clearly noted.
 
 Like having a team of advisors who never sleep and never charge by the hour.
+
+### It scales from helper to autonomous.
+
+Three operating tiers, one kill-switch.  **Supervised** (the AI asks before every action).  **Guarded** (auto-runs safe actions, asks for sensitive ones).  **Autonomous** (full self-governance for trusted long-running jobs).  Every decision at every tier is recorded in a SHA-256 Merkle audit chain — tamper-evident, mathematically verifiable, yours alone.
 
 ### It gets better every day.
 
@@ -161,9 +175,13 @@ ImpForge can mathematically prove that your data was processed correctly — wit
 
 ### 400+ tools, one HyperChat command away.
 
-AI Chat. Code Editor. Document Writer. Spreadsheets. Email. Calendar. Notes. PDF Viewer. Docker Manager. GitHub Dashboard. Trading View. Browser. Terminal. CRM. Analytics. And 380 more.
+AI Chat.  Code Editor.  Document Writer.  Spreadsheets.  Email.  Calendar.  Notes.  PDF Viewer.  Docker Manager.  GitHub Dashboard.  Trading View.  Browser.  Terminal.  CRM.  Analytics.  Presentation Builder.  Campaign Manager.  Multi-repo orchestrator.  Live-broker dashboard (Alpaca, IBKR, Binance, Kraken, Coinbase).  And 380 more.
 
 Each one is a building block. Tell HyperChat to open it — it appears as a floating window on your desktop. Drag it anywhere. Resize it. Pin it. Make it transparent. Build the workstation you've always wanted.
+
+### Builders, not templates.
+
+ImpForge doesn't give you "sample projects."  It gives you **builders**.  Ask HyperChat for a SaaS, a mobile app, a desktop app, a CRM, an e-commerce store, a firmware project, or a single-page site — and the AI *scaffolds the whole thing*, runs it in an isolated sandbox, and iteratively improves it with quality feedback until it works.  Twelve categories.  One command each.
 
 ### Workspaces — Your personal command centers.
 
@@ -171,7 +189,7 @@ Create a "Coding" workspace: IDE on the left, terminal at the bottom, AI chat on
 
 Each workspace remembers everything — window positions, AI context, active tools, even which personality your AI was using.
 
-It's like having multiple desktops on steroids. The kind of setup you've only seen in movies or on trading floors that cost EUR 10,000+. Except it's on your laptop, and it's free.
+It's like having multiple desktops on steroids. The kind of setup you've only seen in movies or on trading floors that cost EUR 10,000+. Except it's on your laptop, and the base version is free.
 
 ---
 
@@ -226,7 +244,7 @@ We didn't add privacy features after building the product. We built the product 
 
 ## Simple pricing. No tricks.
 
-| | Free | Pro (EUR 25/mo) | Founder's Edition (EUR 750) |
+| | Free | Pro (EUR 25/mo) | Founder's Edition (EUR 750 one-time) |
 |--|------|----------------|---------------------------|
 | **HyperChat AI Panel** | Yes | Yes | Yes |
 | **All 400+ modules** | Yes | Yes | Yes |
@@ -238,11 +256,14 @@ We didn't add privacy features after building the product. We built the product 
 | **Digital memory** | Basic | Full | Full |
 | **Enterprise features** | — | Yes | Yes |
 | **Workspaces** | 2 | Unlimited | Unlimited |
+| **Live broker integrations** | — | 5 providers + simulator | 5 providers + simulator |
+| **Third-party providers** | — | 12 across 6 sub-namespaces | 12 across 6 sub-namespaces |
+| **Autonomy tiers** | Supervised | All 3 (Supervised / Guarded / Autonomous) | All 3 |
 | **Updates** | Community | Priority | 3 years included |
 
 **Free forever.** No credit card. No trial. The free version is a real AI workstation — not a demo.
 
-**Founder's Edition**: One-time EUR 750. Limited to first 500 licenses. App works forever.
+**Founder's Edition**: One-time EUR 750. Limited to first 500 licenses. App works forever.  When the 500th license sells, the price goes up — it will never drop.
 
 ### Trust, with receipts
 
@@ -252,13 +273,14 @@ below is re-checked before every release.
 | Claim | Measurement | Value |
 |---|---|---|
 | Zero crashes from panics | `.unwrap()` that can actually panic in the production Rust tree | **0** |
-| Zero technical debt hiding | `#[allow(dead_code)]` attributes anywhere in 507 files | **0** |
+| Zero technical debt hiding | `#[allow(dead_code)]` attributes anywhere in 572 files | **0** |
 | Zero compiler warnings | `cargo check` across all 4 build modes (default, `--features swarmforge`, `--tests`, `--tests --features swarmforge`) | **0** |
 | Zero build drift | Rust toolchain pinned via `rust-toolchain.toml` | **1.95.0** |
 | Zero data leaks | Lines of code sending your data to us or anyone else | **0** |
-| Every module stays healthy | Neural Trias (Memory + IPC + Health) covers every module | **305/305** |
-| Every sub-module is emergent | Sub-modules declared via the Emergence Kernel | **82 / 82** |
-| Every commit is auditable | Commits signed + reproducible (public dev repo, public release tags) | **every one** |
+| Every module stays healthy | Neural Trias (Memory + IPC + Health) covers every module | **313/313** |
+| Every sub-module is emergent | Sub-modules declared via the Emergence Kernel | **82+** |
+| Every gateway decision is logged | SHA-256 Merkle chain in the Autonomy gateway | **every one** |
+| Every commit is auditable | Commits signed + reproducible (public release tags) | **every one** |
 
 These aren't badges we bought. They are the output of `cargo check`,
 `grep`, and `git log` on the public build — you can re-run any of them
@@ -274,7 +296,7 @@ Most AI tools need expensive cloud APIs or 32 GB of RAM. ImpForge runs 4 special
 
 | Model | Role | What it does |
 |-------|------|-------------|
-| **Qwen3-8B** | The Brain | Deep reasoning, strategic decisions, code generation. Has a "thinking mode" for hard problems. |
+| **qwen3-imp:8b** | The Brain | Deep reasoning, strategic decisions, code generation.  Selectively aligned (helps *everywhere professional*, refuses only violence/terrorism/fraud/exploitation).  Has a "thinking mode" for hard problems. |
 | **Qwen2.5-Coder 1.5B** | Fast Hands | Code completion in under 100ms. Fill-in-the-middle, syntax checking, refactoring. |
 | **nomic-embed-text** | Memory | Turns your documents into searchable vectors. Powers the knowledge base and semantic search. |
 | **SmolLM2 1.7B** | Classifier | Understands what you want in under 50ms. Routes your request to the right tool. |
@@ -283,11 +305,11 @@ Most AI tools need expensive cloud APIs or 32 GB of RAM. ImpForge runs 4 special
 
 **Self-learning routing**: The system tracks which model performs best for each type of task. After just 5 interactions, it automatically routes to the optimal model. It literally gets smarter the more you use it.
 
-**11-step quality pipeline**: Every single AI response passes through privacy scanning, governance checks, quality validation, self-correction, PII scrubbing, and cryptographic sealing — automatically, invisibly, every time.
+**12-step quality pipeline**: Every single AI response passes through privacy scanning, governance checks, quality validation, self-correction, PII scrubbing, cryptographic sealing, stigmergy trace, session context, evolution record, EU-compliance labelling, and module-memory feedback — automatically, invisibly, every time.
 
 **Board of Directors**: For big decisions, the Brain simulates 10 executives (CEO, CTO, CFO, CMO, COO, CIO, CLO, CHRO, Analyst, Auditor) — each with a different perspective and temperature. They vote. You get a recommendation with dissenting opinions noted.
 
-**Works with every AI tool**: 157 MCP tools organized in 9 namespace servers. Claude Code, Cursor, JetBrains, Copilot, Windsurf — they all talk to ai_imp like a brother. Token-efficient: loads only the tools you need, not all 157 at once.
+**Works with every AI tool**: 227 MCP tools organised into 13 namespace micro-servers (90% token savings vs monolithic).  Claude Code, Cursor, JetBrains, Copilot, Windsurf — they all talk to ai_imp like a brother.  Lazy schema loading: tool names first (~2K tokens), full schema on demand.
 
 **Selective Alignment**: Your AI is helpful *and* safe. We don't ship a lobotomized model that refuses to write a port scanner. qwen3-imp helps with security research, creative writing, medical info, legal analysis — everything professional. But it firmly refuses violence, terrorism, fraud, and exploitation. No wholesale censorship. No wholesale uncensoring. Enterprise-grade balance.
 
@@ -342,33 +364,38 @@ Not like Grok. Like DeepSeek — open, democratic, accessible.
 
 | | |
 |--|--|
-| Lines of code | **685,000+** |
-| Automated tests | **6,365** |
-| Rust modules | **507 files, 305 modules** |
-| Sub-module files (focused micro-programs) | **200** across 24 directories |
+| Lines of code | **700,000+** |
+| Automated tests | **6,611** |
+| Rust modules | **572 files, 313 modules** |
+| Sub-module files (focused micro-programs) | **289 across 30 directories** |
 | AI personalities | 472 |
 | Quality rules | 158,000+ (81 AI-generated at benchmark 1.00) |
-| Tauri commands | **2,934** |
-| MCP tools (Claude Code / Cursor / JetBrains / Copilot / Windsurf) | **157 in 9 namespace servers** |
+| Tauri commands | **2,975** |
+| MCP tools (Claude Code / Cursor / JetBrains / Copilot / Windsurf) | **227 in 13 namespace servers** |
 | MCP token savings vs monolithic | 90% (lazy schema loading) |
 | 4-Model AI Pipeline benchmark | 1.00/1.00 (all 6 dimensions perfect) |
 | **qwen3-imp:8b** | **Selectively aligned brain — PRODUCTION READY** |
 | Self-learning routing | Adapts from quality feedback automatically |
-| **Memory-informed routing** | Module memory overrides classifier when quality > 0.85 |
-| **Neural Trias** | Module Memory + Module IPC + Module Health (self-healing) |
-| **Emergence Kernel** | One call wires every module's memory + IPC + health + MCP + insight bus |
-| **Lazy LSP Sidecars** | 12 languages load only when you code them — Pyright's 1.7 GB only appears when you open a `.py` |
-| **Pipeline Modes** | **7** (Streaming, Thinking, LongForm, Secure, Diverse, Code, Standard) |
-| **Widget Isolation** | 10 built-in widgets, <5MB idle, ~1MB suspended |
+| Memory-informed routing | Module memory overrides classifier when quality > 0.85 |
+| Neural Trias | Module Memory + Module IPC + Module Health (self-healing) |
+| Emergence Kernel | One call wires every module's memory + IPC + health + MCP + insight bus |
+| Lazy LSP Sidecars | 12 languages load only when you code them — Pyright's 1.7 GB only appears when you open a `.py` |
+| Pipeline Modes | **7** (Streaming, Thinking, LongForm, Secure, Diverse, Code, Standard) |
+| Widget Isolation | 10 built-in widgets, <5MB idle, ~1MB suspended |
+| Project Builders | 12 categories (SaaS, Web, Mobile, Desktop, Firmware, CRM, E-commerce, Single-Page + sandbox + iterate + helpers + types) |
+| Live broker integrations | **5** (Alpaca, IBKR, Binance, Kraken, Coinbase) + deterministic simulator |
+| Third-party providers | **12** across **6 sub-namespaces** (finance, content, cloud, payments, comms, social) |
+| Autonomy tiers | **3** (Supervised / Guarded / Autonomous) with SHA-256 Merkle audit chain + fleet-wide kill switch |
+| HyperChat-Next events | 11 AG-UI event variants (stream every LLM token + tool call + state change) |
 | Autonomous micro-program modules | 400+ (each self-sufficient) |
 | Module capabilities (each) | Privacy + Governance + Context + Stigmergy + Evolution + Memory |
 | Anti-Palantir defense layers | 5 |
 | DigiU privacy tiers | 5 (Fortress to Open) |
-| **Selective Alignment Engine** | 8 safety categories REFUSED, 10 alignment categories HELPED |
+| Selective Alignment Engine | 8 safety categories REFUSED, 10 alignment categories HELPED |
 | Neural synapses | 175 (40 in Synapse Fabric v2) |
 | Specialized AI agents | 15 (Privacy, Compliance, Security, Governance, Evolution, ...) |
 | Resource power modes | 5 (DeepSleep <80MB to Genesis 5GB VRAM) |
-| Board of Directors | 10 executives via temperature variation |
+| Board of Directors | 10 executives via temperature variation + Hebbian trust voting |
 | Governance rules | 23 (deny-by-default) |
 | Emergent intelligence layers | 4 (Pattern, Anomaly, CrossModule, Summary) |
 | ai_imp action types | 25 |
