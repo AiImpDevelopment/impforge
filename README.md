@@ -322,43 +322,46 @@ Not like Grok. Like DeepSeek — open, democratic, accessible.
 
 | | |
 |--|--|
-| Lines of code | **683,000+** |
-| Automated tests | **6,284** |
-| Rust modules | **482 files, 302 modules** |
-| Sub-module files | **178** across 21 directories |
+| Lines of code | **685,000+** |
+| Automated tests | **6,365** |
+| Rust modules | **507 files, 305 modules** |
+| Sub-module files (focused micro-programs) | **200** across 24 directories |
 | AI personalities | 472 |
 | Quality rules | 158,000+ (81 AI-generated at benchmark 1.00) |
-| Tauri commands | **2,923** |
-| MCP tools (Claude/Cursor/JetBrains/Copilot/Windsurf) | **157 in 9 namespace servers** |
+| Tauri commands | **2,934** |
+| MCP tools (Claude Code / Cursor / JetBrains / Copilot / Windsurf) | **157 in 9 namespace servers** |
 | MCP token savings vs monolithic | 90% (lazy schema loading) |
 | 4-Model AI Pipeline benchmark | 1.00/1.00 (all 6 dimensions perfect) |
 | **qwen3-imp:8b** | **Selectively aligned brain — PRODUCTION READY** |
 | Self-learning routing | Adapts from quality feedback automatically |
 | **Memory-informed routing** | Module memory overrides classifier when quality > 0.85 |
 | **Neural Trias** | Module Memory + Module IPC + Module Health (self-healing) |
+| **Emergence Kernel** | One call wires every module's memory + IPC + health + MCP + insight bus |
+| **Lazy LSP Sidecars** | 12 languages load only when you code them — Pyright's 1.7 GB only appears when you open a `.py` |
 | **Pipeline Modes** | **7** (Streaming, Thinking, LongForm, Secure, Diverse, Code, Standard) |
 | **Widget Isolation** | 10 built-in widgets, <5MB idle, ~1MB suspended |
-| Autonomous micro-program modules | 396/422 (93.8%) — each self-sufficient |
-| Module capabilities (each) | Privacy + Governance + Context + Stigmergy + Evolution |
-| Modules wired to Neural Cortex | 396 (100% of active modules) |
+| Autonomous micro-program modules | 400+ (each self-sufficient) |
+| Module capabilities (each) | Privacy + Governance + Context + Stigmergy + Evolution + Memory |
 | Anti-Palantir defense layers | 5 |
 | DigiU privacy tiers | 5 (Fortress to Open) |
 | **Selective Alignment Engine** | 8 safety categories REFUSED, 10 alignment categories HELPED |
 | Neural synapses | 175 (40 in Synapse Fabric v2) |
 | Specialized AI agents | 15 (Privacy, Compliance, Security, Governance, Evolution, ...) |
 | Resource power modes | 5 (DeepSleep <80MB to Genesis 5GB VRAM) |
-| Board of Directors | 10 executives via Qwen3-8B temperature variation |
+| Board of Directors | 10 executives via temperature variation |
 | Governance rules | 23 (deny-by-default) |
 | Emergent intelligence layers | 4 (Pattern, Anomaly, CrossModule, Summary) |
 | ai_imp action types | 25 |
 | A2UI components | 20+ |
 | Design tokens | 400+ |
-| Research papers | **608+** |
+| Research papers cited | **608+** |
 | EU AI Act features classified | 17 (all compliant) |
-| Errors | 0 |
-| Warnings | 0 |
-| Production .unwrap() | 0 (Crown-Jewel grade) |
-| Data collected | 0 |
+| Build errors | 0 |
+| Build warnings | 0 |
+| Production `.unwrap()` | 0 (Crown-Jewel grade) |
+| `#[allow(dead_code)]` | 0 anywhere |
+| Rust toolchain | Pinned 1.95.0 (reproducible builds) |
+| Data collected from you | 0 |
 
 ---
 
