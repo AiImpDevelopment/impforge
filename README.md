@@ -12,15 +12,26 @@
 </p>
 
 <p align="center">
-  <strong>🆕 Session 14 update (2026-04-18):</strong> ai_imp now ships the full
-  <em>"build anything + trade anything"</em> stack — Gold-Standard Web/SaaS/Backend
-  scaffolders with multi-tenant guardrails, pop-out preview windows per generated
-  app, an Agentic-Trust-Framework that lets the AI <em>earn</em> autonomy
-  (Probation → Supervised → Guarded → Autonomous), a Pydantic-Monty WASM sandbox
-  for AI-generated code, a live-trading state machine with VIX breakers + 200-paper-win
-  promotion gate, and persona-aware onboarding for solopreneurs, devs, SMEs,
-  enterprise, and retail traders.
-  <strong>0 warnings · 0 unwrap · 0 allow · Crown-Jewel.</strong>
+  <strong>🆕 April 2026 update:</strong> ai_imp now <em>builds anything for you</em> —
+  describe what you want in plain English, watch a working app pop out in its own window
+  seconds later.  Production-grade SaaS with built-in compliance.  Mobile apps.  Trading
+  companions that start in paper mode and only graduate to real money after they've
+  proven themselves.  All on your laptop.  Whether you want to peek under the hood or not,
+  our <a href="https://github.com/AiImpDevelopment/impforge-templates"><strong>template
+  gallery is now MIT-licensed on GitHub</strong></a> — fully open, free to use anywhere,
+  even with Cursor, Bolt, or Claude Code.
+</p>
+
+<p align="center">
+  <a href="https://github.com/AiImpDevelopment/impforge-templates">
+    <img src="https://img.shields.io/badge/templates-MIT%20on%20GitHub-blue" alt="Templates on GitHub" />
+  </a>
+  <a href="https://github.com/AiImpDevelopment/impforge-skills">
+    <img src="https://img.shields.io/badge/skills-MIT%20on%20GitHub-blue" alt="Skills on GitHub" />
+  </a>
+  <a href="https://github.com/AiImpDevelopment/impforge-mcp-manifests">
+    <img src="https://img.shields.io/badge/template.json-v1%20spec-blueviolet" alt="template.json v1 spec" />
+  </a>
 </p>
 
 <p align="center">
@@ -194,6 +205,28 @@ Each one is a building block. Tell HyperChat to open it — it appears as a floa
 ### Builders, not templates.
 
 ImpForge doesn't give you "sample projects."  It gives you **builders**.  Ask HyperChat for a SaaS, a mobile app, a desktop app, a CRM, an e-commerce store, a firmware project, or a single-page site — and the AI *scaffolds the whole thing*, runs it in an isolated sandbox, and iteratively improves it with quality feedback until it works.  Twelve categories.  One command each.
+
+### Every app appears in its own window.
+
+No iframe juggling.  No "deploy to see it."  When ai_imp finishes building your app, a fresh window pops out on your desktop running the live preview — hot-reloaded, interactive, yours to click through.  Move it to a second monitor.  Leave it open while you describe the next change.  It updates as you speak.
+
+### Compliance comes built-in.
+
+Building a fintech app?  ai_imp ships FINRA-aware audit logging by default.  Healthcare?  HIPAA-ready schema.  SaaS platform?  Multi-tenant isolation auditing catches the one-line bug that causes 92 % of SaaS data breaches — before your migration ever hits the database.
+
+### Free, open template gallery.
+
+We put the scaffolding blueprints on GitHub under an MIT license so anyone — even people who'll never buy ImpForge — can read, fork, or redistribute them.
+
+- [impforge-templates](https://github.com/AiImpDevelopment/impforge-templates) — the template library
+- [impforge-skills](https://github.com/AiImpDevelopment/impforge-skills) — reusable AI agent skills
+- [impforge-mcp-manifests](https://github.com/AiImpDevelopment/impforge-mcp-manifests) — the `template.json` v1 specification
+
+Use them standalone with any tool you like.  Or let ImpForge's engine turn them into live apps in one conversation.  Your call, both work.
+
+### Trading that earns the right to trade.
+
+ai_imp can follow your investment strategies — but no agent gets real money until it has proven itself.  Every trading companion starts in paper mode.  It stays there until it's racked up 200 winning sessions, with zero regressions, in market conditions below the VIX breaker threshold.  Only then does promotion to real-money micro-trading unlock.  You never wake up to a surprise.
 
 ### Workspaces — Your personal command centers.
 
@@ -376,10 +409,13 @@ Not like Grok. Like DeepSeek — open, democratic, accessible.
 
 | | |
 |--|--|
-| Lines of code | **700,000+** |
-| Automated tests | **6,611** |
-| Rust modules | **572 files, 313 modules** |
-| Sub-module files (focused micro-programs) | **289 across 30 directories** |
+| Lines of code | **730,000+** |
+| Automated tests | **6,742+** |
+| Rust modules | **645 files, 322 modules** |
+| Sub-module files (focused micro-programs) | **300+ across 30+ directories** |
+| Free template gallery (MIT) | [**78 industry × category templates**](https://github.com/AiImpDevelopment/impforge-templates) — rolling out in 5 waves |
+| Free skill library (MIT) | [**growing catalog of reusable AI agent skills**](https://github.com/AiImpDevelopment/impforge-skills) |
+| `template.json` v1 specification | [**published on GitHub**](https://github.com/AiImpDevelopment/impforge-mcp-manifests) — adopted by ImpForge, open to all |
 | AI personalities | 472 |
 | Quality rules | 158,000+ (81 AI-generated at benchmark 1.00) |
 | Tauri commands | **2,975** |
