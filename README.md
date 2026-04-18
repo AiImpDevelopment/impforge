@@ -8,7 +8,19 @@
 
 <p align="center">
   <strong>A floating AI companion that turns any laptop into a sovereign workstation<br/>
-  with 400+ modules. Runs 100% offline. Sees no data. Tracks nothing. Ever.</strong>
+  with 480+ modules. Runs 100% offline. Sees no data. Tracks nothing. Ever.</strong>
+</p>
+
+<p align="center">
+  <strong>🆕 Session 14 update (2026-04-18):</strong> ai_imp now ships the full
+  <em>"build anything + trade anything"</em> stack — Gold-Standard Web/SaaS/Backend
+  scaffolders with multi-tenant guardrails, pop-out preview windows per generated
+  app, an Agentic-Trust-Framework that lets the AI <em>earn</em> autonomy
+  (Probation → Supervised → Guarded → Autonomous), a Pydantic-Monty WASM sandbox
+  for AI-generated code, a live-trading state machine with VIX breakers + 200-paper-win
+  promotion gate, and persona-aware onboarding for solopreneurs, devs, SMEs,
+  enterprise, and retail traders.
+  <strong>0 warnings · 0 unwrap · 0 allow · Crown-Jewel.</strong>
 </p>
 
 <p align="center">
